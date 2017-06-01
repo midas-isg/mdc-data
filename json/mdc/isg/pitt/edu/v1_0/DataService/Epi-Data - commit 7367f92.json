@@ -1,0 +1,22 @@
+{
+    "subtype": "Data services",
+    "title": "Epi-Data",
+    "dataServiceDescription": [
+        {
+            "accessPointType": "REST",
+            "accessPointDescription": "https://github.com/cmu-delphi/delphi-epidata/blob/master/README.md",
+            "accessPointUrl": ""
+        }
+    ],
+    "dataOutputFormats": [
+        "MIDAS-ISG:epi-data-json-v1.0"
+    ],
+    "version": [
+        "commit 7367f92"
+    ],
+    "dataInputFormats": [
+        "Proprietary"
+    ],
+    "humanReadableSynopsis": "<p>DELPHI\u2019s Epi-Data API is a web service for looking up Influenza and Dengue data for the United States and Taiwan.</p> <p>The service connects to several Influenza data sources that provide ILI counts and estimates, and Wikipedia page hits for ILI related articles.  Dengue case counts are available for Taiwan.</p> <p>MIDAS developers will find this web service useful as a single point of access to the several web services supported by the API.</p>",
+    "source": "https://github.com/cmu-delphi/delphi-epidata"
+}

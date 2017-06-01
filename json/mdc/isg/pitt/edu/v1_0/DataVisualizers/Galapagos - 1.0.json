@@ -1,0 +1,20 @@
+{
+    "subtype": "Data visualizers",
+    "humanReadableSynopsis": "Galapagos is a web application for comparing and exploring the output of epidemic simulations.  The simulator output must be written in Galapagos format and provided as either a CSV or HDF5 file.  The application enables an analyst to quickly visualize simulator output in the form of tables of various statistics, graphs, and maps. Output from multiple simulations can be loaded into the tables and graphs, which allows an analyst to quickly compare the results of multiple simulations.  The user can download graphs in PNG, SVG, or PDF format, and can download tables in CSV format.",
+    "version": [
+        "1.0"
+    ],
+    "developers": [
+        "Software Development Service, Informatics Services Group"
+    ],
+    "dataInputFormats": [
+        "MIDAS-ISG:galapagos-output-format-v1.0",
+        "MIDAS-ISG:galapagos-output-format-v2.0"
+    ],
+    "webApplication": [
+        "https://research.rods.pitt.edu/galapagos/"
+    ],
+    "documentation": "<a href=\"https://research.rods.pitt.edu/Galapagos.pdf\" class=\"underline\">https://research.rods.pitt.edu/Galapagos.pdf</a>",
+    "signInRequired": true,
+    "title": "Galapagos"
+}

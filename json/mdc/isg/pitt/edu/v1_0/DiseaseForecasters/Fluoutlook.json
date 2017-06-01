@@ -1,0 +1,17 @@
+{
+    "subtype": "Disease forecasters",
+    "humanReadableSynopsis": "FluOutlook is a web platform for the exploration of influenza forecasts.  It provides a visual interface to numerical forecasts of the current influenza season in North America and Europe through maps and charts. Activity data and forecasts are updated weekly, based on the reports of the official influenza surveillance systems in each country.",
+    "type": "prospective 2013-2016",
+    "forecastFrequency": "weekly",
+    "diseases": [
+        "Influenza"
+    ],
+    "region": [
+        "Countries worldwide"
+    ],
+    "forecasts": [
+        "weighted percent ILI visits"
+    ],
+    "website": "http://fluoutlook.org/",
+    "title": "FluOutlook"
+}

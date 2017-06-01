@@ -1,0 +1,14 @@
+{
+    "subtype": "Population dynamics models",
+    "humanReadableSynopsis": "<p>Skeeter Buster is a detailed model of Aedes aegypti populations, developed at NC State University by a team led by Fred Gould (Entomology Dept.) and Alun Lloyd (Mathematics Dept.)</p> It is a stochastic, spatially-explicit model that models cohorts of mosquitoes at a very fine spatial scale, down to the level of individual breeding sites for immature cohorts, or individual houses for adults. The biology of Ae. aegypti is described with great detail on the previously developed CIMSiM model (Focks et al., 1993). Skeeter Buster additionally includes a detailed genetic component, and can therefore model the genetics of Ae. aegypti populations, making it a crucial tool in the evaluation and development of genetic control strategies.",
+    "populationSpeciesIncluded": [
+        "Aedes aegypti"
+    ],
+    "website": "http://www.skeeterbuster.net/",
+    "sourceCodeRelease": "on request.  E-mail <a href=\"mailto:info@skeeterbuster.net?Subject=Source%20code%20release\" target=\"_top\" style=\"text-decoration: underline\">info@skeeterbuster.net</a>",
+    "license": "<a class=\"underline\" href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\">GPLv3</a>",
+    "executables": [
+        "<a href = \"http://legrosmathi.eu/skeeterbuster/Skeeter_Buster.zip\" style=\"text-decoration:underline\">Windows</a>"
+    ],
+    "title": "Skeeter Buster"
+}

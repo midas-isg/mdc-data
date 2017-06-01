@@ -1,0 +1,23 @@
+{
+    "subtype": "Data visualizers",
+    "version": [
+        "v38"
+    ],
+    "license": "MIT",
+    "source": "https://github.com/cmu-delphi/www-epivis",
+    "humanReadableSynopsis": "EpiVis is an interactive web application for visualizing epidemiological time-series data. The application visualizes data from the Epi-Data web service, which connects to several data sources that provide counts and estimates obtained and/or derived from primary sources such as ILINet, Google Flu Trends, and Wikipedia accesses. EpiVis can also visualize any data that users upload to the application in the form of a CSV file.",
+    "developers": [
+        "DELPHI, Carnegie Mellon University"
+    ],
+    "dataInputFormats": [
+        "MIDAS-ISG:epivis-csv-v38",
+        "MIDAS-ISG:flusight-forecast-v1.0"
+    ],
+    "webApplication": [
+        "http://delphi.midas.cs.cmu.edu/epivis/epivis.html"
+    ],
+    "visualizationType": [
+        "Time series"
+    ],
+    "title": "EpiVis"
+}

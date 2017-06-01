@@ -1,0 +1,28 @@
+{
+    "subtype": "Data visualizers",
+    "version": [
+        "1.0.1.0"
+    ],
+    "identifier": {
+        "identifier": "<a href=\"https://doi.org/10.5281/zenodo.437560\", class=\"underline\">10.5281/zenodo.437560</a>"
+    },
+    "developers": [
+        "Commissioned by Sara de Valle Ph.D., Los Alamos National Labs",
+        "Programming by Software Development Service, Informatics Services Group."
+    ],
+    "dataInputFormats": [
+        "MIDAS-ISG:tycho-xml-output-format-v1.0",
+        "MIDAS-ISG:epi-case-format-v1.2"
+    ],
+    "source": "https://github.com/midas-isg/epicasemap",
+    "webApplication": [
+        "https://betaweb.rods.pitt.edu/epicasemap"
+    ],
+    "license": "<a class=\"underline\" href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\">GPLv3</a>",
+    "documentation": "<a href=\"http://research.rods.pitt.edu/EpiCaseMapUserGuide.pdf\" class=\"underline\">http://research.rods.pitt.edu/EpiCaseMapUserGuide.pdf</a>",
+    "humanReadableSynopsis": "EpiCaseMap is a browser-based application that allows a user to visualize and compare spatio-temporal data (e.g. disease case data) as animated graphs and maps.  The software visualizes CSV data and data from the Project Tycho API.  Data are visualized as time-series graphs or animated maps (indicator-based and choropleths). The software can output the input data in JSON format.",
+    "grants": [
+        "U24GM110707"
+    ],
+    "title": "EpiCaseMap"
+}

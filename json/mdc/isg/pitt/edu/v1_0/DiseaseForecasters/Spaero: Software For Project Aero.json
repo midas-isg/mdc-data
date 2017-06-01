@@ -1,0 +1,10 @@
+{
+    "subtype": "Disease forecasters",
+    "humanReadableSynopsis": "An R package that implements methods for anticipating the emergence and eradication of infectious diseases from surveillance time series. Also provides support for computational experiments testing the performance of such methods.",
+    "website": "https://cran.r-project.org/web/packages/spaero/index.html",
+    "documentation": "<a href=\"https://cran.r-project.org/web/packages/spaero/spaero.pdf\" class=\"underline\" download>https://cran.r-project.org/web/packages/spaero/spaero.pdf</a>",
+    "forecasts": [
+        "none"
+    ],
+    "title": "spaero: Software for Project AERO"
+}

@@ -1,0 +1,14 @@
+{
+    "subtype": "Modeling platforms",
+    "humanReadableSynopsis": "Repast for High Performance Computing is a lean and expert-focused C++-based modeling system that is designed for use on large computing clusters and supercomputers.",
+    "version": [
+        "2.2.0"
+    ],
+    "executables": [
+        "<a href=\"https://repast.github.io/download.html\" class=\"underline\">https://repast.github.io/download.html</a>"
+    ],
+    "documentation": "<a href=\"https://repast.github.io/docs.html\" class=\"underline\">https://repast.github.io/docs.html</a>",
+    "source": "https://github.com/Repast/repast.hpc",
+    "sourceCodeRelease": "<a href=\"https://github.com/Repast/repast.hpc/releases/tag/v2.2.0\" class=\"underline\">https://github.com/Repast/repast.hpc/releases/tag/v2.2.0</a>",
+    "title": "Repast for High Performance Computing"
+}

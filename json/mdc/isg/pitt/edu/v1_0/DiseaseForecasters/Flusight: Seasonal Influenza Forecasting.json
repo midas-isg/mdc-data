@@ -1,0 +1,20 @@
+{
+    "subtype": "Disease forecasters",
+    "humanReadableSynopsis": "This beta website houses the weekly influenza activity forecasts provided by eight research teams. It\u2019s important to note that these are not CDC forecasts and that the forecasts on this website are not endorsed by CDC. These forecasts are based on different models, can vary significantly, and may be inaccurate.",
+    "forecastFrequency": "weekly",
+    "type": "prospective 2015-2016",
+    "diseases": [
+        "Influenza"
+    ],
+    "region": [
+        "10 US regions"
+    ],
+    "forecasts": [
+        "Start week",
+        "Peak week",
+        "Peak intensity",
+        "Short term (1-, 2-, 3-, and 4-week ahead) forecasts of weekly percent visits to sentinel clincians for ILI"
+    ],
+    "website": "http://cdcepi.github.io/flu/index.html",
+    "title": "FluSight: Seasonal Influenza Forecasting"
+}

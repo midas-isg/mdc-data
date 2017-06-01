@@ -1,0 +1,34 @@
+{
+    "subtype": "Phylogenetic tree constructors",
+    "version": [
+        "3.0"
+    ],
+    "license": "<a class=\"underline\" href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\">GNU Public License</a>",
+    "humanReadableSynopsis": "PhyML is a phylogeny software based on the maximum-likelihood principle. Binaries are available for Linux, MacOS and Windows; the source code is available on request.",
+    "developers": [
+        "St\u00e9phane Guidon (LIRMM, Montpellier, France.)",
+        "Olivier Gascuel (LIRMM, Montpellier, France.)"
+    ],
+    "dataInputFormats": [
+        "UW-DGS-DB:phylip-format-v3.695",
+        "MIDAS-ISG:nexus-v1.0",
+        "MIDAS-ISG:dna-sequences-for-ape-v1.0"
+    ],
+    "dataOutputFormats": [
+        "BIOSHARING.ORG:bsg-s000250"
+    ],
+    "webApplication": [
+        "http://www.atgc-montpellier.fr/phyml/"
+    ],
+    "executables": [
+        "<a class=\"underline\" href=\"http://www.atgc-montpellier.fr/phyml/binaries.php \">Executable Binaries</a>"
+    ],
+    "publicationsAboutRelease": [
+        "\"New Algorithms and Methods to Estimate Maximum-Likelihood Phylogenies: Assessing the Performance of PhyML 3.0.\" Guindon S., Dufayard J.F., Lefort V., Anisimova M., Hordijk W., Gascuel O. Systematic Biology, 59(3):307-21, 2010. (<a href=\" https://doi.org/10.1093/sysbio/syq010\", class=\"underline\">doi:10.1093/sysbio/syq010</a>)"
+    ],
+    "publicationsThatUsedRelease": [
+        "<a class=\"underline\" href=\"http://biorxiv.org/content/early/2016/09/16/071779\">http://biorxiv.org/content/early/2016/09/16/071779</a>"
+    ],
+    "documentation": "<a class=\"underline\" href=\"http://www.atgc-montpellier.fr/download/papers/phyml_manual_2012.pdf\" download>http://www.atgc-montpellier.fr/download/papers/phyml_manual_2012.pdf</a>",
+    "title": "PhyML"
+}

@@ -1,0 +1,34 @@
+{
+    "subtype": "Disease transmission models",
+    "availableOnOlympus": true,
+    "availableOnUIDS": true,
+    "locationCoverage": [
+        "Worldwide"
+    ],
+    "hostSpeciesIncluded": [
+        "Humans"
+    ],
+    "pathogenCoverage": [
+        "Influenza"
+    ],
+    "controlMeasures": [
+        "Antivirals",
+        "vaccination"
+    ],
+    "humanReadableSynopsis": "<p>A SEIR compartmental model developed by the University of Pittsburgh. The model supports antiviral and vaccination control strategies.</p> <p>This disease transmission model (DTM) can be run using the Universal Interface to Disease Simulators available <a href=\"http://research.rods.pitt.edu/apollo-web-client/\" class=\"underline\">here</a>.</p> <p> This DTM can also be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click <a href=\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class=\"underline\">here</a>.</p>",
+    "version": [
+        "3.0"
+    ],
+    "source": "https://github.com/midas-isg/PITT-SEIR-model",
+    "license": "<a class=\"underline\" href =\"https://www.apache.org/licenses/LICENSE-2.0\">Apache V2.0</a>",
+    "identifier": {
+        "identifier": "<a href=\"https://zenodo.org/record/319937#.WKxb1xLytPV\", class=\"underline\">10.5281/zenodo.319937</a>"
+    },
+    "title": "Pitt-SEIR model",
+    "dataInputFormats": [
+        "APOLLO:InfectiousDiseaseScenario-v4.0.1"
+    ],
+    "dataOutputFormats": [
+        "MIDAS-ISG:galapagos-output-format-v2.0"
+    ]
+}

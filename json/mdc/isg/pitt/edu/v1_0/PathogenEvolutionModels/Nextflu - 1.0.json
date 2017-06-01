@@ -1,0 +1,36 @@
+{
+    "subtype": "Pathogen evolution models",
+    "product": "NextStrain",
+    "humanReadableSynopsis": "nextflu v1.0 is the release of the Nextstrain project described in a 2015 Bioinformatics article. Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data with powerful analytics and visualizations showing pathogen evolution and epidemic spread. The goal is to aid epidemiological understanding and improve outbreak response.",
+    "dataInputFormats": [
+        "BIOSHARING.ORG:bsg-s000228"
+    ],
+    "version": [
+        "1.0"
+    ],
+    "website": "http://nextflu.org/",
+    "source": "https://github.com/blab/nextflu/releases",
+    "developers": [
+        "Richard Neher",
+        "Trevor Bedford",
+        "Colin Megill",
+        "James Hadfield",
+        "Charlton Callender",
+        "Sidney Bell",
+        "Barney Potter",
+        "Sarah Murata"
+    ],
+    "publicationsAboutRelease": [
+        "Neher, R. A., & Bedford, T. (2015). nextflu: real-time tracking of seasonal influenza virus evolution in humans. Bioinformatics, 31(21), 3546\u20133548. <a href=\"http://doi.org/10.1093/bioinformatics/btv381\" class=\"underline\">http://doi.org/10.1093/bioinformatics/btv381</a>"
+    ],
+    "license": "<a href=\"https://www.gnu.org/licenses/agpl-3.0.en.html\" class=\"underline\">GNU Affero General Public License</a>",
+    "grants": [
+        "ERC Stg-260686",
+        "NIH U54 GM111274"
+    ],
+    "pathogens": [
+        "H1N1 Influenza",
+        "H3N2 Influenza"
+    ],
+    "title": "nextflu"
+}

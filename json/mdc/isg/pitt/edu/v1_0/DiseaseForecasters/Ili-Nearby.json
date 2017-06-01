@@ -1,0 +1,23 @@
+{
+    "subtype": "Disease forecasters",
+    "humanReadableSynopsis": "ILI Nearby is a web application that displays real-time estimates of the prevalence of Influenza-like-illness activity at various administrative levels in the US. The analytic method is based on sensor fusion theory, which allows inference from multiple data sources.",
+    "type": "prospective nowcast",
+    "forecastFrequency": "weekly",
+    "diseases": [
+        "Influenza"
+    ],
+    "region": [
+        "US National",
+        "HHS regions",
+        "Census regions",
+        "Census states"
+    ],
+    "nowcasts": [
+        "weekly percent ILI"
+    ],
+    "forecasts": [
+        "none"
+    ],
+    "website": "http://delphi.midas.cs.cmu.edu/nowcast/",
+    "title": "ILI-nearby"
+}

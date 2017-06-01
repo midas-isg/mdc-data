@@ -1,0 +1,18 @@
+{
+    "subtype": "Pathogen evolution models",
+    "humanReadableSynopsis": "HyPhy is an open-source software package for the analysis of genetic sequences\u00a0using techniques in phylogenetics, molecular evolution, and machine learning. It features a complete graphical user interface (GUI) and a rich scripting language for limitless customization of analyses. Additionally, HyPhy features support for parallel computing environments (via\u00a0message passing interface) and it can be compiled as a shared library and called from other programming environments such as\u00a0Python\u00a0or\u00a0R. HyPhy has over\u00a08000 registered users\u00a0and has been\u00a0cited in over 900\u00a0peer-reviewed publications (Google Scholar). Continued development of HyPhy is currently supported in part by an NIGMS R01 award\u00a01R01GM093939.",
+    "developers": [
+        "Sergei Pond",
+        "Steven Weaver"
+    ],
+    "website": "http://www.hyphy.org/w/index.php/Main_Page",
+    "source": "https://github.com/veg/hyphy",
+    "version": [
+        "2.2.6"
+    ],
+    "availableOnOlympus": true,
+    "grants": [
+        "NIH/NIGMS R01GM093939"
+    ],
+    "title": "HyPhy"
+}

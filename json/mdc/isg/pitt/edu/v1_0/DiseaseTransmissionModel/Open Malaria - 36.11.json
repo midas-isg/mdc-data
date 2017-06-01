@@ -1,0 +1,37 @@
+{
+    "subtype": "Disease transmission models",
+    "product": "Open Malaria",
+    "humanReadableSynopsis": "A simulator of malaria epidemiology and control.",
+    "version": [
+        "36.11"
+    ],
+    "locationCoverage": [
+        "N/A"
+    ],
+    "controlMeasures": [
+        "Mass drug deployment",
+        "vaccination",
+        "vector control interventions",
+        "indoor spraying",
+        "larviciding",
+        "zoo-prophylaxis",
+        "odour-baited traps"
+    ],
+    "executables": [
+        "<a href = \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-linux.tar.gz\" style=\"text-decoration:underline\">Linux</a>",
+        "<a href = \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-osx.tar.gz\" style=\"text-decoration:underline\">OS X</a>",
+        "<a href = \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-windows-no-libs.zip\" style=\"text-decoration:underline\">Windows - no libs</a>",
+        "<a href = \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-windows.zip\" style=\"text-decoration:underline\">Windows w/ libs</a>"
+    ],
+    "source": "https://github.com/SwissTPH/openmalaria",
+    "sourceCodeRelease": "<a href = \"https://github.com/SwissTPH/openmalaria/archive/schema-36.1.1.zip\" style=\"text-decoration:underline\">ZIP</a>, <a href = \"https://github.com/SwissTPH/openmalaria/archive/schema-36.1.1.tar.gz\" style=\"text-decoration:underline\">TAR.GZ</a>",
+    "pathogenCoverage": [
+        "Malaria"
+    ],
+    "hostSpeciesIncluded": [
+        "Humans",
+        "Mosquitoes"
+    ],
+    "documentation": "<a href=\"https://github.com/SwissTPH/openmalaria/wiki\" class=\"underline\">https://github.com/SwissTPH/openmalaria/wiki</a>",
+    "title": "Open Malaria"
+}

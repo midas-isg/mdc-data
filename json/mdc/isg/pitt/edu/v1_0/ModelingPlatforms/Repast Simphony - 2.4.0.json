@@ -1,0 +1,14 @@
+{
+    "subtype": "Modeling platforms",
+    "humanReadableSynopsis": "Repast Simphony is a richly interactive and easy to learn Java-based modeling system that is designed for use on workstations and small computing clusters.",
+    "version": [
+        "2.4.0"
+    ],
+    "executables": [
+        "<a href=\"https://repast.github.io/download.html\" class=\"underline\">https://repast.github.io/download.html</a>"
+    ],
+    "documentation": "<a href=\"https://repast.github.io/docs.html\" class=\"underline\">https://repast.github.io/docs.html</a>",
+    "source": "https://github.com/Repast/repast.simphony",
+    "sourceCodeRelease": "<a href=\"https://github.com/Repast/repast.simphony/releases/tag/v2.4.0\" class=\"underline\">https://github.com/Repast/repast.simphony/releases/tag/v2.4.0</a>",
+    "title": "Repast Simphony"
+}

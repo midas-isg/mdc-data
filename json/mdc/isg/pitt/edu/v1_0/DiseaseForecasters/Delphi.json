@@ -1,0 +1,20 @@
+{
+    "subtype": "Disease forecasters",
+    "humanReadableSynopsis": "Delphi's forecasts are derived from expert's forecasts. To sign up to participate as an expert go to: <a href=\"http://delphi.midas.cs.cmu.edu/epicast/\", class=\"underline\">http://delphi.midas.cs.cmu.edu/epicast/</a>",
+    "type": "prospective 2016-2017",
+    "forecastFrequency": "weekly",
+    "diseases": [
+        "Influenza"
+    ],
+    "region": [
+        "10 US regions and national"
+    ],
+    "forecasts": [
+        "Start week",
+        "Peak week",
+        "Peak intensity"
+    ],
+    "website": "http://delphi.midas.cs.cmu.edu/forecast/",
+    "source": "https://github.com/cmu-delphi/",
+    "title": "Delphi"
+}

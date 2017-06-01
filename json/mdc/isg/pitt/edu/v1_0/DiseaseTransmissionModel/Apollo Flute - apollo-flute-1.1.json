@@ -1,0 +1,43 @@
+{
+    "subtype": "Disease transmission models",
+    "product": "FluTE",
+    "humanReadableSynopsis": "<p>A version of <a href=\"https://github.com/dlchao/FluTE\", class=\"underline\">FluTE</a> forked by the Pittsburgh Supercomputing Center that supports simulating over the whole US population and works with Apollo Web Services.</p> <p>This disease transmission model (DTM) can be run using the Universal Interface to Disease Simulators available <a href=\"http://research.rods.pitt.edu/apollo-web-client/\" class=\"underline\">here</a>.</p> <p> This DTM can also be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click <a href=\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class=\"underline\">here</a>.</p>",
+    "pathogenCoverage": [
+        "Influenza"
+    ],
+    "identifier": {
+        "identifier": "<a href=\"http://dx.doi.org/10.5281/zenodo.268028\", class=\"underline\">10.5281/zenodo.268028</a>"
+    },
+    "source": "https://github.com/PSC-PublicHealth/FluTE",
+    "sourceCodeRelease": "<a href=\"https://zenodo.org/record/268028#.WJiSt2V8-sM\" class=\"underline\">https://zenodo.org/record/268028#.WJiSt2V8-sM</a>",
+    "version": [
+        "apollo-flute-1.1"
+    ],
+    "documentation": "<a href=\"https://github.com/PSC-PublicHealth/FluTE/blob/apollo-flute-1.1/README\" class=\"underline\">https://github.com/PSC-PublicHealth/FluTE/blob/apollo-flute-1.1/README</a>",
+    "locationCoverage": [
+        "United States"
+    ],
+    "availableOnOlympus": true,
+    "availableOnUIDS": true,
+    "hostSpeciesIncluded": [
+        "Humans"
+    ],
+    "controlMeasures": [
+        "Antivirals",
+        "isolation",
+        "liberal sick leave",
+        "quarantine",
+        "school closure",
+        "travel restriction",
+        "vaccination"
+    ],
+    "license": "<a class=\"underline\" href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\">GNU Public License</a>",
+    "title": "Apollo FluTE",
+    "dataInputFormats": [
+        "APOLLO:InfectiousDiseaseScenario-v4.0.1",
+        "MIDAS-ISG:flute-synthetic-ecosystem-v1.1"
+    ],
+    "dataOutputFormats": [
+        "MIDAS-ISG:galapagos-output-format-v2.0"
+    ]
+}

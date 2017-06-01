@@ -1,0 +1,17 @@
+{
+    "subtype": "Disease forecasters",
+    "humanReadableSynopsis": "This web application displays (1) the weekly Influenza Like Illness (ILI) in US cities reported throughout an influenza season, and (2) detailed ILI forecasts.",
+    "forecastFrequency": "weekly",
+    "type": "prospective 2016-2017",
+    "diseases": [
+        "Influenza"
+    ],
+    "region": [
+        "95 US cities"
+    ],
+    "forecasts": [
+        "Weekly count of observed influenza like illness"
+    ],
+    "website": "http://cpid.iri.columbia.edu/",
+    "title": "Columbia Prediction of Infectious Diseases"
+}

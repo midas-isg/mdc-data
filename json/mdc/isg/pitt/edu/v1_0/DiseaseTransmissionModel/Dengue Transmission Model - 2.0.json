@@ -1,0 +1,30 @@
+{
+    "subtype": "Disease transmission models",
+    "locationCoverage": [
+        "Yucat\u00e1n, Mexico"
+    ],
+    "hostSpeciesIncluded": [
+        "Humans",
+        "Mosquitoes"
+    ],
+    "pathogenCoverage": [
+        "Dengue"
+    ],
+    "controlMeasures": [
+        "Vaccination"
+    ],
+    "version": [
+        "2.0"
+    ],
+    "humanReadableSynopsis": "This agent-based dengue model represents movement of and transmission dynamics among people and mosquitoes in Yucat\u00e1n, Mexico, and simulates various vaccine scenarios to evaluate effectiveness under those conditions. It comprises 1.8 million people between 375,000 households and 100,000 workplaces and schools.",
+    "dataInputFormats": [
+        "MIDAS-ISG:hladish-dengue-model-v2.0"
+    ],
+    "source": "https://github.com/tjhladish/dengue",
+    "sourceCodeRelease": "<a href = \"https://github.com/tjhladish/dengue/releases/tag/v2.0\" style=\"text-decoration:underline\">https://github.com/tjhladish/dengue/releases/tag/v2.0</a>",
+    "license": "<a class=\"underline\" href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\">GPLv3</a>",
+    "publicationsThatUsedRelease": [
+        "Thomas J. Hladish, Carl A. B. Pearson, Dennis L. Chao, Diana Patricia Rojas, Gabriel L. Recchia, H\u00e9ctor G\u00f3mez-Dant\u00e9s, M. Elizabeth Halloran, Juliet R. C. Pulliam, Ira M. Longini (2016) Projected Impact of Dengue Vaccination in Yucat\u00e1n, Mexico. (<a href=\"http://dx.doi.org/10.1371/journal.pntd.0004661\" class=\"underline\">doi:10.1371/journal.pntd.0004661</a>)"
+    ],
+    "title": "Dengue transmission model"
+}

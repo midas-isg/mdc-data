@@ -1,0 +1,38 @@
+{
+    "subtype": "Disease transmission models",
+    "product": "FRED",
+    "humanReadableSynopsis": "<p>A version of <a href=\"http://fred.publichealth.pitt.edu/simulator/\", class=\"underline\">FRED</a> forked by the Pittsburgh Supercomputing Center that works with the Apollo Web Services.</p> <p>This disease transmission model (DTM) can be run using the Universal Interface to Disease Simulators available <a href=\"http://research.rods.pitt.edu/apollo-web-client/\" class=\"underline\">here</a>.</p> <p> This DTM can also be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click <a href=\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class=\"underline\">here</a>.</p>",
+    "pathogenCoverage": [
+        "Communicable human-to-human"
+    ],
+    "identifier": {
+        "identifier": "<a href=\"http://dx.doi.org/10.5281/zenodo.268051\", class=\"underline\">10.5281/zenodo.268051</a>"
+    },
+    "version": [
+        "0.0.4"
+    ],
+    "source": "https://github.com/PSC-PublicHealth/pFRED",
+    "availableOnOlympus": true,
+    "availableOnUIDS": true,
+    "locationCoverage": [
+        "United States"
+    ],
+    "hostSpeciesIncluded": [
+        "Humans"
+    ],
+    "dataInputFormats": [
+        "APOLLO:InfectiousDiseaseScenario-v4.0.1",
+        "MIDAS-ISG:synthia-us-v2010"
+    ],
+    "dataOutputFormats": [
+        "MIDAS-ISG:galapagos-output-format-v2.0"
+    ],
+    "controlMeasures": [
+        "Vaccination",
+        "quarantine",
+        "reactive school closures",
+        "global school closures"
+    ],
+    "sourceCodeRelease": "<a href=\"https://zenodo.org/record/268051#.WJiO4mV8-sM\" class=\"underline\">https://zenodo.org/record/268051#.WJiO4mV8-sM</a>",
+    "title": "pFRED"
+}
