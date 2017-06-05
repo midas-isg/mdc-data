@@ -1,32 +1,32 @@
 {
-    "subtype": "Disease transmission models",
-    "availableOnOlympus": true,
-    "version": [
-        "0.5"
-    ],
-    "locationCoverage": [
-        "Cairns, Australia"
-    ],
-    "hostSpeciesIncluded": [
-        "Humans",
-        "Mosquitoes"
-    ],
-    "pathogenCoverage": [
-        "Dengue"
-    ],
-    "controlMeasures": [
-        "Wolbachia",
-        "vector control",
-        "vaccination",
-        "larviciding"
-    ],
-    "humanReadableSynopsis": "<p>The ComputationaL ARthropod Agents (CLARA) is a Netlogo agent-based model for vector-borne diseases. CLARA is still under development.</p> <p> This DTM can be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click <a href=\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class=\"underline\">here</a>.</p>",
-    "identifier": {
-        "identifier": "<a href=\"http://doi.org/10.5281/zenodo.322422\", class=\"underline\">10.5281/zenodo.322422</a>"
-    },
-    "developers": [
-        "Shawn T. Brown"
-    ],
-    "source": "https://github.com/PSC-PublicHealth/CLARA",
-    "title": "CLARA"
+  "subtype": "Disease transmission models",
+  "availableOnOlympus": true,
+  "version": [
+    "0.5"
+  ],
+  "locationCoverage": [
+    "Cairns, Australia"
+  ],
+  "hostSpeciesIncluded": [
+    "Humans",
+    "Mosquitoes"
+  ],
+  "pathogenCoverage": [
+    "Dengue"
+  ],
+  "controlMeasures": [
+    "Wolbachia",
+    "vector control",
+    "vaccination",
+    "larviciding"
+  ],
+  "humanReadableSynopsis": "\u003cp\u003eThe ComputationaL ARthropod Agents (CLARA) is a Netlogo agent-based model for vector-borne diseases. CLARA is still under development.\u003c/p\u003e \u003cp\u003e This DTM can be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click \u003ca href\u003d\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class\u003d\"underline\"\u003ehere\u003c/a\u003e.\u003c/p\u003e",
+  "identifier": {
+    "identifier": "\u003ca href\u003d\"http://doi.org/10.5281/zenodo.322422\", class\u003d\"underline\"\u003e10.5281/zenodo.322422\u003c/a\u003e"
+  },
+  "developers": [
+    "Shawn T. Brown"
+  ],
+  "source": "https://github.com/PSC-PublicHealth/CLARA",
+  "title": "CLARA"
 }

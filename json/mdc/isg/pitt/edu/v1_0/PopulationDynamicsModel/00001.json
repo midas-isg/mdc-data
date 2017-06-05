@@ -1,17 +1,17 @@
 {
-    "subtype": "Population dynamics models",
-    "humanReadableSynopsis": "<p>The Dynamic Mosquito Simulation Model (DyMSiM) enables the simulation of mosquito populations driven by climate data. DyMSiM provides a useful tool for researchers investigating a number of mosquito-borne diseases.</p> <p>DyMSiM was created using STELLA 9.02 software. You must have STELLA installed on your computer to run DyMSiM.</p>",
-    "populationSpeciesIncluded": [
-        "Mosquitoes"
-    ],
-    "website": "https://sites.google.com/site/dymsimmodel/home",
-    "executables": [
-        "<a class=\"underline\" href=\"https://sites.google.com/site/dymsimmodel/download\">Windows, OS X</a> (registration required)"
-    ],
-    "documentation": "<a class=\"underline\" href=\"https://sites.google.com/site/dymsimmodel/about\">https://sites.google.com/site/dymsimmodel/about</a>",
-    "license": "<a class=\"underline\" href=\"https://sites.google.com/site/dymsimmodel/download\">Proprietary Open Source License</a>",
-    "publicationsAboutRelease": [
-        "Morin C and Comrie AC, 2010. Modeled response of the West Nile virus vector Culex quinquefasciatus to changing climate using the dynamic mosquito simulation model. International Journal of Biometeorology 54,517-529. (<a href=\"http://dx.doi.org/10.1007/s00484-010-0349-6\" class=\"underline\">doi:10.1007/s00484-010-0349-6</a>)"
-    ],
-    "title": "Dynamic Mosquito Simulation Model (DyMSiM)"
+  "subtype": "Population dynamics models",
+  "humanReadableSynopsis": "\u003cp\u003eThe Dynamic Mosquito Simulation Model (DyMSiM) enables the simulation of mosquito populations driven by climate data. DyMSiM provides a useful tool for researchers investigating a number of mosquito-borne diseases.\u003c/p\u003e \u003cp\u003eDyMSiM was created using STELLA 9.02 software. You must have STELLA installed on your computer to run DyMSiM.\u003c/p\u003e",
+  "populationSpeciesIncluded": [
+    "Mosquitoes"
+  ],
+  "website": "https://sites.google.com/site/dymsimmodel/home",
+  "executables": [
+    "\u003ca class\u003d\"underline\" href\u003d\"https://sites.google.com/site/dymsimmodel/download\"\u003eWindows, OS X\u003c/a\u003e (registration required)"
+  ],
+  "documentation": "\u003ca class\u003d\"underline\" href\u003d\"https://sites.google.com/site/dymsimmodel/about\"\u003ehttps://sites.google.com/site/dymsimmodel/about\u003c/a\u003e",
+  "license": "\u003ca class\u003d\"underline\" href\u003d\"https://sites.google.com/site/dymsimmodel/download\"\u003eProprietary Open Source License\u003c/a\u003e",
+  "publicationsAboutRelease": [
+    "Morin C and Comrie AC, 2010. Modeled response of the West Nile virus vector Culex quinquefasciatus to changing climate using the dynamic mosquito simulation model. International Journal of Biometeorology 54,517-529. (\u003ca href\u003d\"http://dx.doi.org/10.1007/s00484-010-0349-6\" class\u003d\"underline\"\u003edoi:10.1007/s00484-010-0349-6\u003c/a\u003e)"
+  ],
+  "title": "Dynamic Mosquito Simulation Model (DyMSiM)"
 }

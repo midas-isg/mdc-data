@@ -1,37 +1,37 @@
 {
-    "subtype": "Disease transmission models",
-    "product": "FRED",
-    "humanReadableSynopsis": "This software installs the FRED simulator on a Windows 64-bit operating system.",
-    "identifier": {
-        "identifier": "<a href=\"https://zenodo.org/badge/latestdoi/80568018\", class=\"underline\">10.5281/zenodo.268504</a>"
-    },
-    "source": "https://github.com/midas-isg/FRED_CYGWIN_INSTALLER",
-    "version": [
-        "2.12.0-b1.0"
-    ],
-    "sourceCodeRelease": "<a href=\"https://zenodo.org/record/268504#.WJiWQmV8-sM\" class=\"underline\">https://zenodo.org/record/268504#.WJiWQmV8-sM</a>",
-    "locationCoverage": [
-        "United States"
-    ],
-    "hostSpeciesIncluded": [
-        "Humans"
-    ],
-    "pathogenCoverage": [
-        "Communicable human-to-human"
-    ],
-    "dataInputFormats": [
-        "MIDAS-ISG:synthia-us-v2010",
-        "Proprietary"
-    ],
-    "controlMeasures": [
-        "Vaccination",
-        "quarantine",
-        "reactive school closures",
-        "global school closures"
-    ],
-    "documentation": "<a href=\"https://github.com/midas-isg/FRED_CYGWIN_INSTALLER/blob/master/README.md\" class=\"underline\">https://github.com/midas-isg/FRED_CYGWIN_INSTALLER/blob/master/README.md</a>",
-    "executables": [
-        "<a href=\"http://research.rods.pitt.edu/fred_win64.exe\" class=\"underline\">Windows</a>"
-    ],
-    "title": "FRED Windows 64"
+  "subtype": "Disease transmission models",
+  "product": "FRED",
+  "humanReadableSynopsis": "This software installs the FRED simulator on a Windows 64-bit operating system.",
+  "identifier": {
+    "identifier": "\u003ca href\u003d\"https://zenodo.org/badge/latestdoi/80568018\", class\u003d\"underline\"\u003e10.5281/zenodo.268504\u003c/a\u003e"
+  },
+  "source": "https://github.com/midas-isg/FRED_CYGWIN_INSTALLER",
+  "version": [
+    "2.12.0-b1.0"
+  ],
+  "sourceCodeRelease": "\u003ca href\u003d\"https://zenodo.org/record/268504#.WJiWQmV8-sM\" class\u003d\"underline\"\u003ehttps://zenodo.org/record/268504#.WJiWQmV8-sM\u003c/a\u003e",
+  "locationCoverage": [
+    "United States"
+  ],
+  "hostSpeciesIncluded": [
+    "Humans"
+  ],
+  "pathogenCoverage": [
+    "Communicable human-to-human"
+  ],
+  "dataInputFormats": [
+    "MIDAS-ISG:synthia-us-v2010",
+    "Proprietary"
+  ],
+  "controlMeasures": [
+    "Vaccination",
+    "quarantine",
+    "reactive school closures",
+    "global school closures"
+  ],
+  "documentation": "\u003ca href\u003d\"https://github.com/midas-isg/FRED_CYGWIN_INSTALLER/blob/master/README.md\" class\u003d\"underline\"\u003ehttps://github.com/midas-isg/FRED_CYGWIN_INSTALLER/blob/master/README.md\u003c/a\u003e",
+  "executables": [
+    "\u003ca href\u003d\"http://research.rods.pitt.edu/fred_win64.exe\" class\u003d\"underline\"\u003eWindows\u003c/a\u003e"
+  ],
+  "title": "FRED Windows 64"
 }

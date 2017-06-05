@@ -1,14 +1,14 @@
 {
-    "subtype": "Modeling platforms",
-    "humanReadableSynopsis": "Repast Simphony is a richly interactive and easy to learn Java-based modeling system that is designed for use on workstations and small computing clusters.",
-    "version": [
-        "2.4.0"
-    ],
-    "executables": [
-        "<a href=\"https://repast.github.io/download.html\" class=\"underline\">https://repast.github.io/download.html</a>"
-    ],
-    "documentation": "<a href=\"https://repast.github.io/docs.html\" class=\"underline\">https://repast.github.io/docs.html</a>",
-    "source": "https://github.com/Repast/repast.simphony",
-    "sourceCodeRelease": "<a href=\"https://github.com/Repast/repast.simphony/releases/tag/v2.4.0\" class=\"underline\">https://github.com/Repast/repast.simphony/releases/tag/v2.4.0</a>",
-    "title": "Repast Simphony"
+  "subtype": "Modeling platforms",
+  "humanReadableSynopsis": "Repast Simphony is a richly interactive and easy to learn Java-based modeling system that is designed for use on workstations and small computing clusters.",
+  "version": [
+    "2.4.0"
+  ],
+  "executables": [
+    "\u003ca href\u003d\"https://repast.github.io/download.html\" class\u003d\"underline\"\u003ehttps://repast.github.io/download.html\u003c/a\u003e"
+  ],
+  "documentation": "\u003ca href\u003d\"https://repast.github.io/docs.html\" class\u003d\"underline\"\u003ehttps://repast.github.io/docs.html\u003c/a\u003e",
+  "source": "https://github.com/Repast/repast.simphony",
+  "sourceCodeRelease": "\u003ca href\u003d\"https://github.com/Repast/repast.simphony/releases/tag/v2.4.0\" class\u003d\"underline\"\u003ehttps://github.com/Repast/repast.simphony/releases/tag/v2.4.0\u003c/a\u003e",
+  "title": "Repast Simphony"
 }

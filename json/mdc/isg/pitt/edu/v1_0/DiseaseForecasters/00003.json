@@ -1,19 +1,19 @@
 {
-    "subtype": "Disease forecasters",
-    "humanReadableSynopsis": "The Dengue Forecasting Project is a collaboration of several departments in the U.S. Federal Government (Department of Health and Human Services, Department of Defense, Department of Commerce, and the Department of Homeland Security), with the support of the Pandemic Prediction and Forecasting Science and Technology Interagency Working Group under the National Science and Technology Council.  Its goal is to design an infectious disease forecasting project with the aim of galvanizing efforts to predict epidemics of dengue.This interagency project will assess forecasts using historical data from Iquitos, Peru and San Juan, Puerto Rico. On this webpage you can find the forecast targets, dengue data, environmental data, submission procedure evaluation criteria, and a detailed description of the project. Information about dengue is available from the Centers for Disease Control and Prevention (CDC).Any updates will be posted here and on the the NOAA Dengue Forecasting Page where these materials are also available. For submissions or questions about the project contact <a href=\"mailto:predict@cdc.gov\" class=\"underline\">predict@cdc.gov</a>.",
-    "type": "Retrospective 2009-2013",
-    "diseases": [
-        "Dengue"
-    ],
-    "region": [
-        "San Juan, Puerto Rico",
-        "Iquitos, Peru"
-    ],
-    "forecasts": [
-        "Timing of peak incidence",
-        "Maximum weekly incidence",
-        "Total number of dengue cases in a transmission season"
-    ],
-    "website": "http://cdcepi.github.io/dengue/index.html",
-    "title": "Dengue Forecasting Project"
+  "subtype": "Disease forecasters",
+  "humanReadableSynopsis": "The Dengue Forecasting Project is a collaboration of several departments in the U.S. Federal Government (Department of Health and Human Services, Department of Defense, Department of Commerce, and the Department of Homeland Security), with the support of the Pandemic Prediction and Forecasting Science and Technology Interagency Working Group under the National Science and Technology Council.  Its goal is to design an infectious disease forecasting project with the aim of galvanizing efforts to predict epidemics of dengue.This interagency project will assess forecasts using historical data from Iquitos, Peru and San Juan, Puerto Rico. On this webpage you can find the forecast targets, dengue data, environmental data, submission procedure evaluation criteria, and a detailed description of the project. Information about dengue is available from the Centers for Disease Control and Prevention (CDC).Any updates will be posted here and on the the NOAA Dengue Forecasting Page where these materials are also available. For submissions or questions about the project contact \u003ca href\u003d\"mailto:predict@cdc.gov\" class\u003d\"underline\"\u003epredict@cdc.gov\u003c/a\u003e.",
+  "type": "Retrospective 2009-2013",
+  "diseases": [
+    "Dengue"
+  ],
+  "region": [
+    "San Juan, Puerto Rico",
+    "Iquitos, Peru"
+  ],
+  "forecasts": [
+    "Timing of peak incidence",
+    "Maximum weekly incidence",
+    "Total number of dengue cases in a transmission season"
+  ],
+  "website": "http://cdcepi.github.io/dengue/index.html",
+  "title": "Dengue Forecasting Project"
 }

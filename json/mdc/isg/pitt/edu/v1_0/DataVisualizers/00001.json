@@ -1,25 +1,25 @@
 {
-    "subtype": "Data visualizers",
-    "version": [
-        "4.0.1"
-    ],
-    "developers": [
-        "Software Development Service, Informatics Services Group"
-    ],
-    "dataInputFormats": [
-        "MIDAS-ISG:omnivore-output-format-v2.0",
-        "APOLLO:InfectiousDiseaseScenario-v4.0.1",
-        "APOLLO:Epidemic-v4.0.1",
-        "APOLLO:CaseSeries-v4.0.1"
-    ],
-    "source": "https://git.isg.pitt.edu/isg-sds/apollo-library-viewer",
-    "webApplication": [
-        "http://epimodels.org/apolloLibraryViewer-4.0.1/"
-    ],
-    "license": "Apache 2.0",
-    "humanReadableSynopsis": "The Apollo Library is a curated collection of infectious disease-related information gathered from health reports and other peer-reviewed sources.   All information in the library is available in both human and machine readable formats.",
-    "grants": [
-        "U24GM110707"
-    ],
-    "title": "Apollo Library Viewer"
+  "subtype": "Data visualizers",
+  "version": [
+    "4.0.1"
+  ],
+  "developers": [
+    "Software Development Service, Informatics Services Group"
+  ],
+  "dataInputFormats": [
+    "MIDAS-ISG:omnivore-output-format-v2.0",
+    "APOLLO:InfectiousDiseaseScenario-v4.0.1",
+    "APOLLO:Epidemic-v4.0.1",
+    "APOLLO:CaseSeries-v4.0.1"
+  ],
+  "source": "https://git.isg.pitt.edu/isg-sds/apollo-library-viewer",
+  "webApplication": [
+    "http://epimodels.org/apolloLibraryViewer-4.0.1/"
+  ],
+  "license": "Apache 2.0",
+  "humanReadableSynopsis": "The Apollo Library is a curated collection of infectious disease-related information gathered from health reports and other peer-reviewed sources.   All information in the library is available in both human and machine readable formats.",
+  "grants": [
+    "U24GM110707"
+  ],
+  "title": "Apollo Library Viewer"
 }

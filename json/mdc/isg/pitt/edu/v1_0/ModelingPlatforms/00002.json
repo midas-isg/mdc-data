@@ -1,19 +1,19 @@
 {
-    "subtype": "Modeling platforms",
-    "product": "NetLogo",
-    "humanReadableSynopsis": "NetLogo is a multi-agent programmable modeling environment. It is used by tens of thousands of students, teachers and researchers worldwide. It also powers <a href=\"http://ccl.northwestern.edu/netlogo/hubnet.html\" class=\"underline\">HubNet</a> participatory simulations. It is authored by <a href=\"http://ccl.northwestern.edu/Uri.shtml\" class=\"underline\">Uri Wilensky</a> and developed at the <a href=\"http://ccl.northwestern.edu/\" class=\"underline\">CCL</a>. You can download it free of charge.",
-    "webApplication": [
-        "http://www.netlogoweb.org/launch"
-    ],
-    "version": [
-        "6.0"
-    ],
-    "executables": [
-        "<a class=\"underline\" href=\"http://ccl.northwestern.edu/netlogo/download.shtml\">http://ccl.northwestern.edu/netlogo/download.shtml</a>"
-    ],
-    "source": "https://github.com/NetLogo/NetLogo",
-    "sourceCodeRelease": "<a href=\"https://github.com/NetLogo/NetLogo/releases/tag/6.0.0\" class=\"underline\">https://github.com/NetLogo/NetLogo/releases/tag/6.0.0</a>",
-    "documentation": "<a class=\"underline\" href=\"http://ccl.northwestern.edu/netlogo/docs/\">http://ccl.northwestern.edu/netlogo/docs/</a>",
-    "license": "<a class=\"underline\" href=\"http://www.gnu.org/licenses/gpl-2.0.html\">GPL (GNU General Public License), version 2</a>",
-    "title": "NetLogo"
+  "subtype": "Modeling platforms",
+  "product": "NetLogo",
+  "humanReadableSynopsis": "NetLogo is a multi-agent programmable modeling environment. It is used by tens of thousands of students, teachers and researchers worldwide. It also powers \u003ca href\u003d\"http://ccl.northwestern.edu/netlogo/hubnet.html\" class\u003d\"underline\"\u003eHubNet\u003c/a\u003e participatory simulations. It is authored by \u003ca href\u003d\"http://ccl.northwestern.edu/Uri.shtml\" class\u003d\"underline\"\u003eUri Wilensky\u003c/a\u003e and developed at the \u003ca href\u003d\"http://ccl.northwestern.edu/\" class\u003d\"underline\"\u003eCCL\u003c/a\u003e. You can download it free of charge.",
+  "webApplication": [
+    "http://www.netlogoweb.org/launch"
+  ],
+  "version": [
+    "6.0"
+  ],
+  "executables": [
+    "\u003ca class\u003d\"underline\" href\u003d\"http://ccl.northwestern.edu/netlogo/download.shtml\"\u003ehttp://ccl.northwestern.edu/netlogo/download.shtml\u003c/a\u003e"
+  ],
+  "source": "https://github.com/NetLogo/NetLogo",
+  "sourceCodeRelease": "\u003ca href\u003d\"https://github.com/NetLogo/NetLogo/releases/tag/6.0.0\" class\u003d\"underline\"\u003ehttps://github.com/NetLogo/NetLogo/releases/tag/6.0.0\u003c/a\u003e",
+  "documentation": "\u003ca class\u003d\"underline\" href\u003d\"http://ccl.northwestern.edu/netlogo/docs/\"\u003ehttp://ccl.northwestern.edu/netlogo/docs/\u003c/a\u003e",
+  "license": "\u003ca class\u003d\"underline\" href\u003d\"http://www.gnu.org/licenses/gpl-2.0.html\"\u003eGPL (GNU General Public License), version 2\u003c/a\u003e",
+  "title": "NetLogo"
 }

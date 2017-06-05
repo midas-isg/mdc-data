@@ -1,30 +1,30 @@
 {
-    "humanReadableSynopsis": "TranStat is a software application designed to estimate the transmissibility of infections within groups of individuals.",
-    "subtype": "Disease transmission models",
-    "locationCoverage": [
-        "N/A"
-    ],
-    "hostSpeciesIncluded": [
-        "N/A"
-    ],
-    "pathogenCoverage": [
-        "N/A"
-    ],
-    "controlMeasures": [
-        "N/A"
-    ],
-    "version": [
-        "Version 3 July 2015"
-    ],
-    "developers": [
-        "Center for Inference and Dynamics of Infectious Disease"
-    ],
-    "website": "http://www.cidid.org/transtat",
-    "executables": [
-        "<a href=\"http://www.cidid.org/s/main_windows.exe\", class=\"underline\">Windows</a>",
-        "<a href=\"http://www.cidid.org/s/main_OSX_v_10_10_4.out\", class=\"underline\">MAC OS X</a>"
-    ],
-    "documentation": "<a href=\"http://www.cidid.org/s/TranStat_Tutorial_A_07_07_2015.pdf\", class=\"underline\" download>TransStat Tutorial A 07/07/2015 [PDF]</a>",
-    "sourceCodeRelease": "<a href=\"http://www.cidid.org/s/TranStat_Version_3_July_2015_source.zip\" class=\"underline\">Download latest version</a>",
-    "title": "TranStat"
+  "humanReadableSynopsis": "TranStat is a software application designed to estimate the transmissibility of infections within groups of individuals.",
+  "subtype": "Disease transmission models",
+  "locationCoverage": [
+    "N/A"
+  ],
+  "hostSpeciesIncluded": [
+    "N/A"
+  ],
+  "pathogenCoverage": [
+    "N/A"
+  ],
+  "controlMeasures": [
+    "N/A"
+  ],
+  "version": [
+    "Version 3 July 2015"
+  ],
+  "developers": [
+    "Center for Inference and Dynamics of Infectious Disease"
+  ],
+  "website": "http://www.cidid.org/transtat",
+  "executables": [
+    "\u003ca href\u003d\"http://www.cidid.org/s/main_windows.exe\", class\u003d\"underline\"\u003eWindows\u003c/a\u003e",
+    "\u003ca href\u003d\"http://www.cidid.org/s/main_OSX_v_10_10_4.out\", class\u003d\"underline\"\u003eMAC OS X\u003c/a\u003e"
+  ],
+  "documentation": "\u003ca href\u003d\"http://www.cidid.org/s/TranStat_Tutorial_A_07_07_2015.pdf\", class\u003d\"underline\" download\u003eTransStat Tutorial A 07/07/2015 [PDF]\u003c/a\u003e",
+  "sourceCodeRelease": "\u003ca href\u003d\"http://www.cidid.org/s/TranStat_Version_3_July_2015_source.zip\" class\u003d\"underline\"\u003eDownload latest version\u003c/a\u003e",
+  "title": "TranStat"
 }

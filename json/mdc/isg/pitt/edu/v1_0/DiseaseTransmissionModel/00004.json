@@ -1,32 +1,32 @@
 {
-    "subtype": "Disease transmission models",
-    "product": "Open Malaria",
-    "humanReadableSynopsis": "<p>A simulator of malaria epidemiology and control.</p> <p> This DTM can be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click <a href=\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class=\"underline\">here</a>.</p>",
-    "version": [
-        "33.1"
-    ],
-    "source": "https://github.com/SwissTPH/openmalaria/releases/tag/schema-33.1",
-    "sourceCodeRelease": "<a href = \"https://github.com/SwissTPH/openmalaria/archive/schema-33.1.zip\" style=\"text-decoration:underline\">ZIP</a>, <a href = \"https://github.com/SwissTPH/openmalaria/archive/schema-33.1.tar.gz\" style=\"text-decoration:underline\">TAR.GZ</a>",
-    "locationCoverage": [
-        "N/A"
-    ],
-    "pathogenCoverage": [
-        "Malaria"
-    ],
-    "hostSpeciesIncluded": [
-        "Humans",
-        "Mosquitoes"
-    ],
-    "controlMeasures": [
-        "Mass drug deployment",
-        "vaccination",
-        "vector control interventions",
-        "indoor spraying",
-        "larviciding",
-        "zoo-prophylaxis",
-        "odour-baited traps"
-    ],
-    "documentation": "<a href=\"https://github.com/SwissTPH/openmalaria/wiki\" class=\"underline\">https://github.com/SwissTPH/openmalaria/wiki</a>",
-    "availableOnOlympus": true,
-    "title": "Open Malaria"
+  "subtype": "Disease transmission models",
+  "product": "Open Malaria",
+  "humanReadableSynopsis": "\u003cp\u003eA simulator of malaria epidemiology and control.\u003c/p\u003e \u003cp\u003e This DTM can be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click \u003ca href\u003d\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class\u003d\"underline\"\u003ehere\u003c/a\u003e.\u003c/p\u003e",
+  "version": [
+    "33.1"
+  ],
+  "source": "https://github.com/SwissTPH/openmalaria/releases/tag/schema-33.1",
+  "sourceCodeRelease": "\u003ca href \u003d \"https://github.com/SwissTPH/openmalaria/archive/schema-33.1.zip\" style\u003d\"text-decoration:underline\"\u003eZIP\u003c/a\u003e, \u003ca href \u003d \"https://github.com/SwissTPH/openmalaria/archive/schema-33.1.tar.gz\" style\u003d\"text-decoration:underline\"\u003eTAR.GZ\u003c/a\u003e",
+  "locationCoverage": [
+    "N/A"
+  ],
+  "pathogenCoverage": [
+    "Malaria"
+  ],
+  "hostSpeciesIncluded": [
+    "Humans",
+    "Mosquitoes"
+  ],
+  "controlMeasures": [
+    "Mass drug deployment",
+    "vaccination",
+    "vector control interventions",
+    "indoor spraying",
+    "larviciding",
+    "zoo-prophylaxis",
+    "odour-baited traps"
+  ],
+  "documentation": "\u003ca href\u003d\"https://github.com/SwissTPH/openmalaria/wiki\" class\u003d\"underline\"\u003ehttps://github.com/SwissTPH/openmalaria/wiki\u003c/a\u003e",
+  "availableOnOlympus": true,
+  "title": "Open Malaria"
 }

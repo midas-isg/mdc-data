@@ -1,21 +1,21 @@
 {
-    "subtype": "Data visualizers",
-    "humanReadableSynopsis": "The Synthetic Microdata Household Viewer is a browser-based application that displays distributions of households in a synthetic (simulated) population generated from 2010 U.S. Census and 2007-2011 5-year American Community Survey data.  The software displays the distributions on interactive maps, and can show four demographic variables: household income, household size, householder race, and householder age.",
-    "developers": [
-        "RTI International",
-        "Bill Wheaton",
-        "Brandon Bergenroth",
-        "Dahl Winters",
-        "James Rineer"
-    ],
-    "webApplication": [
-        "https://synthpopviewer.rti.org"
-    ],
-    "dataInputFormats": [
-        "MIDAS-ISG:synthia-us-v2010"
-    ],
-    "grants": [
-        "1-U24-GM087704"
-    ],
-    "title": "Synthetic Microdata Household Viewer"
+  "subtype": "Data visualizers",
+  "humanReadableSynopsis": "The Synthetic Microdata Household Viewer is a browser-based application that displays distributions of households in a synthetic (simulated) population generated from 2010 U.S. Census and 2007-2011 5-year American Community Survey data.  The software displays the distributions on interactive maps, and can show four demographic variables: household income, household size, householder race, and householder age.",
+  "developers": [
+    "RTI International",
+    "Bill Wheaton",
+    "Brandon Bergenroth",
+    "Dahl Winters",
+    "James Rineer"
+  ],
+  "webApplication": [
+    "https://synthpopviewer.rti.org"
+  ],
+  "dataInputFormats": [
+    "MIDAS-ISG:synthia-us-v2010"
+  ],
+  "grants": [
+    "1-U24-GM087704"
+  ],
+  "title": "Synthetic Microdata Household Viewer"
 }

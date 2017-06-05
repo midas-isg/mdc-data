@@ -1,25 +1,25 @@
 {
-    "subtype": "Synthetic ecosystem constructors",
-    "humanReadableSynopsis": "Synthetic Populations and Ecosystems of the World (SPEW) is an open-source R package for creating synthetic populations and ecosystems for any geographic region in the world.  The resulting synthetic ecosystems provide data on both synthetic agents and households, their locations, and (for US agents) both school and workplace assignments.",
-    "developers": [
-        "Shannon Gallagher",
-        "Lee Richardson",
-        "Samuel Ventura",
-        "Bill Eddy"
-    ],
-    "website": "http://www.stat.cmu.edu/~spew/",
-    "executables": [
-        "<a href=\"http://data.olympus.psc.edu/syneco/spew_1.2.0/spew_1.2.0.tar.gz\" style=\"text-decoration:underline\">OS X</a>"
-    ],
-    "source": "https://github.com/leerichardson/spew",
-    "version": [
-        "1.2.0"
-    ],
-    "dataOutputFormats": [
-        "MIDAS-ISG:spew-us-format-v1.2.0",
-        "MIDAS-ISG:spew-ipums-format-v1.2.0",
-        "MIDAS-ISG:spew-canada-format-v1.2.0"
-    ],
-    "documentation": "<a href=\"http://www.stat.cmu.edu/~spew/assets/spew_documentation.pdf\" class=\"underline\" download>Documentation for completed synthetic ecosystems [PDF]</a>",
-    "title": "spew"
+  "subtype": "Synthetic ecosystem constructors",
+  "humanReadableSynopsis": "Synthetic Populations and Ecosystems of the World (SPEW) is an open-source R package for creating synthetic populations and ecosystems for any geographic region in the world.  The resulting synthetic ecosystems provide data on both synthetic agents and households, their locations, and (for US agents) both school and workplace assignments.",
+  "developers": [
+    "Shannon Gallagher",
+    "Lee Richardson",
+    "Samuel Ventura",
+    "Bill Eddy"
+  ],
+  "website": "http://www.stat.cmu.edu/~spew/",
+  "executables": [
+    "\u003ca href\u003d\"http://data.olympus.psc.edu/syneco/spew_1.2.0/spew_1.2.0.tar.gz\" style\u003d\"text-decoration:underline\"\u003eOS X\u003c/a\u003e"
+  ],
+  "source": "https://github.com/leerichardson/spew",
+  "version": [
+    "1.2.0"
+  ],
+  "dataOutputFormats": [
+    "MIDAS-ISG:spew-us-format-v1.2.0",
+    "MIDAS-ISG:spew-ipums-format-v1.2.0",
+    "MIDAS-ISG:spew-canada-format-v1.2.0"
+  ],
+  "documentation": "\u003ca href\u003d\"http://www.stat.cmu.edu/~spew/assets/spew_documentation.pdf\" class\u003d\"underline\" download\u003eDocumentation for completed synthetic ecosystems [PDF]\u003c/a\u003e",
+  "title": "spew"
 }

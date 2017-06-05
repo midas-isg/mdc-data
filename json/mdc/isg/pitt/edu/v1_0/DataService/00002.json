@@ -1,15 +1,15 @@
 {
-    "subtype": "Data services",
-    "title": "Entrez Programming Utilities (E-utilities)",
-    "dataServiceDescription": [
-        {
-            "accessPointType": "REST",
-            "accessPointDescription": "https://www.ncbi.nlm.nih.gov/books/NBK25501/",
-            "accessPointUrl": ""
-        }
-    ],
-    "dataOutputFormats": [
-        "MIDAS-ISG:entrez-output-format-v1.0"
-    ],
-    "humanReadableSynopsis": "<p>The Entrez Programming Utilities (E-utilities) is a web service which allows you to execute text searches on the PubMed database of biomedical literature and 38 other literature and molecular databases including DNA and protein sequence, structure, gene, genome, genetic variation and gene expression.</p> <p>An example of a use that MIDAS developers might make of this system is querying the <a class=\"underline\" href=\"https://www.ncbi.nlm.nih.gov/taxonomy/\" style=\"word-break:break-word\">NCBI Taxonomy Database</a> for standard codes for host and pathogen species.</p>"
+  "subtype": "Data services",
+  "title": "Entrez Programming Utilities (E-utilities)",
+  "dataServiceDescription": [
+    {
+      "accessPointType": "REST",
+      "accessPointDescription": "https://www.ncbi.nlm.nih.gov/books/NBK25501/",
+      "accessPointUrl": ""
+    }
+  ],
+  "dataOutputFormats": [
+    "MIDAS-ISG:entrez-output-format-v1.0"
+  ],
+  "humanReadableSynopsis": "\u003cp\u003eThe Entrez Programming Utilities (E-utilities) is a web service which allows you to execute text searches on the PubMed database of biomedical literature and 38 other literature and molecular databases including DNA and protein sequence, structure, gene, genome, genetic variation and gene expression.\u003c/p\u003e \u003cp\u003eAn example of a use that MIDAS developers might make of this system is querying the \u003ca class\u003d\"underline\" href\u003d\"https://www.ncbi.nlm.nih.gov/taxonomy/\" style\u003d\"word-break:break-word\"\u003eNCBI Taxonomy Database\u003c/a\u003e for standard codes for host and pathogen species.\u003c/p\u003e"
 }

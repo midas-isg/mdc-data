@@ -1,21 +1,21 @@
 {
-    "subtype": "Data services",
-    "title": "Project Tycho",
-    "dataServiceDescription": [
-        {
-            "accessPointType": "CUSTOM",
-            "accessPointDescription": "<a class=\"underline\" href=\"http://www.tycho.pitt.edu/api_help.php\">http://www.tycho.pitt.edu/api_help.php</a> (sign-up required)",
-            "accessPointUrl": "http://www.tycho.pitt.edu/api/"
-        }
-    ],
-    "humanReadableSynopsis": "<p>The Project Tycho API allows users to query the Project Tycho database for publicly available disease surveillance data.</p> <p>MIDAS developers can use this web service to download disease surveillance data directly into their applications for processing.</p>",
-    "version": [
-        "1.1.0"
-    ],
-    "dataOutputFormats": [
-        "Proprietary"
-    ],
-    "dataInputFormats": [
-        "Proprietary"
-    ]
+  "subtype": "Data services",
+  "title": "Project Tycho",
+  "dataServiceDescription": [
+    {
+      "accessPointType": "CUSTOM",
+      "accessPointDescription": "\u003ca class\u003d\"underline\" href\u003d\"http://www.tycho.pitt.edu/api_help.php\"\u003ehttp://www.tycho.pitt.edu/api_help.php\u003c/a\u003e (sign-up required)",
+      "accessPointUrl": "http://www.tycho.pitt.edu/api/"
+    }
+  ],
+  "humanReadableSynopsis": "\u003cp\u003eThe Project Tycho API allows users to query the Project Tycho database for publicly available disease surveillance data.\u003c/p\u003e \u003cp\u003eMIDAS developers can use this web service to download disease surveillance data directly into their applications for processing.\u003c/p\u003e",
+  "version": [
+    "1.1.0"
+  ],
+  "dataOutputFormats": [
+    "Proprietary"
+  ],
+  "dataInputFormats": [
+    "Proprietary"
+  ]
 }

@@ -1,12 +1,12 @@
 {
-    "subtype": "Data services",
-    "title": "MedlinePlus Connect",
-    "dataServiceDescription": [
-        {
-            "accessPointType": "REST",
-            "accessPointDescription": "https://medlineplus.gov/connect/service.html",
-            "accessPointUrl": ""
-        }
-    ],
-    "humanReadableSynopsis": "<p>MedlinePlus Connect is a web service for looking up codes used in the field of health care, namely ICD-9, ICD-10, SNOMED-CT, RXCUI, NDC and LOINC codes.</p> <p>MIDAS developers will find this web service useful when working with data that is encoded using any of the coding systems listed above.</p>"
+  "subtype": "Data services",
+  "title": "MedlinePlus Connect",
+  "dataServiceDescription": [
+    {
+      "accessPointType": "REST",
+      "accessPointDescription": "https://medlineplus.gov/connect/service.html",
+      "accessPointUrl": ""
+    }
+  ],
+  "humanReadableSynopsis": "\u003cp\u003eMedlinePlus Connect is a web service for looking up codes used in the field of health care, namely ICD-9, ICD-10, SNOMED-CT, RXCUI, NDC and LOINC codes.\u003c/p\u003e \u003cp\u003eMIDAS developers will find this web service useful when working with data that is encoded using any of the coding systems listed above.\u003c/p\u003e"
 }

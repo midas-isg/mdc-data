@@ -1,14 +1,14 @@
 {
-    "subtype": "Modeling platforms",
-    "humanReadableSynopsis": "Repast for High Performance Computing is a lean and expert-focused C++-based modeling system that is designed for use on large computing clusters and supercomputers.",
-    "version": [
-        "2.2.0"
-    ],
-    "executables": [
-        "<a href=\"https://repast.github.io/download.html\" class=\"underline\">https://repast.github.io/download.html</a>"
-    ],
-    "documentation": "<a href=\"https://repast.github.io/docs.html\" class=\"underline\">https://repast.github.io/docs.html</a>",
-    "source": "https://github.com/Repast/repast.hpc",
-    "sourceCodeRelease": "<a href=\"https://github.com/Repast/repast.hpc/releases/tag/v2.2.0\" class=\"underline\">https://github.com/Repast/repast.hpc/releases/tag/v2.2.0</a>",
-    "title": "Repast for High Performance Computing"
+  "subtype": "Modeling platforms",
+  "humanReadableSynopsis": "Repast for High Performance Computing is a lean and expert-focused C++-based modeling system that is designed for use on large computing clusters and supercomputers.",
+  "version": [
+    "2.2.0"
+  ],
+  "executables": [
+    "\u003ca href\u003d\"https://repast.github.io/download.html\" class\u003d\"underline\"\u003ehttps://repast.github.io/download.html\u003c/a\u003e"
+  ],
+  "documentation": "\u003ca href\u003d\"https://repast.github.io/docs.html\" class\u003d\"underline\"\u003ehttps://repast.github.io/docs.html\u003c/a\u003e",
+  "source": "https://github.com/Repast/repast.hpc",
+  "sourceCodeRelease": "\u003ca href\u003d\"https://github.com/Repast/repast.hpc/releases/tag/v2.2.0\" class\u003d\"underline\"\u003ehttps://github.com/Repast/repast.hpc/releases/tag/v2.2.0\u003c/a\u003e",
+  "title": "Repast for High Performance Computing"
 }

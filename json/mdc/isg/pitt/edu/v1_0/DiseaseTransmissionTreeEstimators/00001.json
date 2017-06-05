@@ -1,21 +1,21 @@
 {
-    "subtype": "Disease transmission tree estimators",
-    "humanReadableSynopsis": "The R-package outbreaker implements a Bayesian approach for reconstructing outbreak data from pathogen genome sequences. It also implements a tool for outbreak simulation.",
-    "dataInputFormats": [
-        "MIDAS-ISG:dna-sequences-for-ape-v1.0"
-    ],
-    "license": "<a class=\"underline\" href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\">GPL</a>",
-    "version": [
-        "1.1-7"
-    ],
-    "developers": [
-        "Thibaut Jombart"
-    ],
-    "source": "https://github.com/thibautjombart/outbreaker",
-    "documentation": "<a href=\"https://cran.r-project.org/web/packages/outbreaker/outbreaker.pdf\" class=\"underline\">https://cran.r-project.org/web/packages/outbreaker/outbreaker.pdf</a><br><a href=\"https://sites.google.com/site/therepiproject/outbreaker-intro.pdf\" class=\"underline\">https://sites.google.com/site/therepiproject/outbreaker-intro.pdf</a>",
-    "website": "https://sites.google.com/site/therepiproject/r-pac/outbreaker",
-    "publicationsAboutRelease": [
-        "Jombart T, Cori A, Didelot X, Cauchemez S, Fraser C & Ferguson N (2014) Bayesian Reconstruction of Disease Outbreaks by Combining Epidemiologic and Genomic Data. PLoS Comput Biol 10(1): e1003457. (<a href=\"http://dx.doi.org/10.1371/journal.pcbi.1003457\" class=\"underline\">doi:10.1371/journal.pcbi.1003457</a>)"
-    ],
-    "title": "outbreaker"
+  "subtype": "Disease transmission tree estimators",
+  "humanReadableSynopsis": "The R-package outbreaker implements a Bayesian approach for reconstructing outbreak data from pathogen genome sequences. It also implements a tool for outbreak simulation.",
+  "dataInputFormats": [
+    "MIDAS-ISG:dna-sequences-for-ape-v1.0"
+  ],
+  "license": "\u003ca class\u003d\"underline\" href\u003d\"https://www.gnu.org/licenses/gpl-3.0.en.html\"\u003eGPL\u003c/a\u003e",
+  "version": [
+    "1.1-7"
+  ],
+  "developers": [
+    "Thibaut Jombart"
+  ],
+  "source": "https://github.com/thibautjombart/outbreaker",
+  "documentation": "\u003ca href\u003d\"https://cran.r-project.org/web/packages/outbreaker/outbreaker.pdf\" class\u003d\"underline\"\u003ehttps://cran.r-project.org/web/packages/outbreaker/outbreaker.pdf\u003c/a\u003e\u003cbr\u003e\u003ca href\u003d\"https://sites.google.com/site/therepiproject/outbreaker-intro.pdf\" class\u003d\"underline\"\u003ehttps://sites.google.com/site/therepiproject/outbreaker-intro.pdf\u003c/a\u003e",
+  "website": "https://sites.google.com/site/therepiproject/r-pac/outbreaker",
+  "publicationsAboutRelease": [
+    "Jombart T, Cori A, Didelot X, Cauchemez S, Fraser C \u0026 Ferguson N (2014) Bayesian Reconstruction of Disease Outbreaks by Combining Epidemiologic and Genomic Data. PLoS Comput Biol 10(1): e1003457. (\u003ca href\u003d\"http://dx.doi.org/10.1371/journal.pcbi.1003457\" class\u003d\"underline\"\u003edoi:10.1371/journal.pcbi.1003457\u003c/a\u003e)"
+  ],
+  "title": "outbreaker"
 }

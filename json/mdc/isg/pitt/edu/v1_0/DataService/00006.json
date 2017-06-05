@@ -1,20 +1,20 @@
 {
-    "subtype": "Data services",
-    "title": "RxNorm API",
-    "dataServiceDescription": [
-        {
-            "accessPointType": "SOAP",
-            "accessPointDescription": "https://rxnav.nlm.nih.gov/RxNormAPIREST.html",
-            "accessPointUrl": ""
-        },
-        {
-            "accessPointType": "REST",
-            "accessPointDescription": "https://rxnav.nlm.nih.gov/RxNormAPISOAP.html",
-            "accessPointUrl": ""
-        }
-    ],
-    "dataOutputFormats": [
-        "MIDAS-ISG:rxnorm-api-output-format-v1.0"
-    ],
-    "humanReadableSynopsis": "<p>The RxNorm API is a web service for accessing the current RxNorm data set.</p> <p>MIDAS developers will find this web service useful when working with data that is encoded using the RxNorm coding system or when standardizing datasets.</p>"
+  "subtype": "Data services",
+  "title": "RxNorm API",
+  "dataServiceDescription": [
+    {
+      "accessPointType": "SOAP",
+      "accessPointDescription": "https://rxnav.nlm.nih.gov/RxNormAPIREST.html",
+      "accessPointUrl": ""
+    },
+    {
+      "accessPointType": "REST",
+      "accessPointDescription": "https://rxnav.nlm.nih.gov/RxNormAPISOAP.html",
+      "accessPointUrl": ""
+    }
+  ],
+  "dataOutputFormats": [
+    "MIDAS-ISG:rxnorm-api-output-format-v1.0"
+  ],
+  "humanReadableSynopsis": "\u003cp\u003eThe RxNorm API is a web service for accessing the current RxNorm data set.\u003c/p\u003e \u003cp\u003eMIDAS developers will find this web service useful when working with data that is encoded using the RxNorm coding system or when standardizing datasets.\u003c/p\u003e"
 }
