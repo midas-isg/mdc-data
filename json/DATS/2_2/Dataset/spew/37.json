@@ -1,8 +1,8 @@
 {
-    "title": "North Carolina Synthetic Ecosystem",
-    "description": "North Carolina synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
+    "title": "Oklahoma Synthetic Ecosystem",
+    "description": "Oklahoma synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
     "identifier": {
-        "identifier": "https://doi.org/10.5281/zenodo.574011",
+        "identifier": "https://doi.org/10.5281/zenodo.574014",
         "identifierSource": "zenodo"
     },
     "creators": [
@@ -84,28 +84,28 @@
             }
         },
         {
-            "name": "North Carolina",
+            "name": "Oklahoma",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1631",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1595",
                 "identifierSource": "apollo location service"
             }
         }
     ],
     "spatialCoverage": [
         {
-            "name": "North Carolina",
+            "name": "Oklahoma",
             "description": "",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1631",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1595",
                 "identifierSource": "apollo location service"
             },
             "alternateIdentifiers": [
                 {
-                    "identifier": "US-NC",
+                    "identifier": "US-OK",
                     "identifierSource": "ISO 3166"
                 },
                 {
-                    "identifier": "37",
+                    "identifier": "40",
                     "identifierSource": "FIPS state code"
                 }
             ]
@@ -141,8 +141,8 @@
                 }
             ],
             "access": {
-                "landingPage": "http://w3id.org/spew/0000034",
-                "accessURL": "https://zenodo.org/record/574011/files/37.tar.gz"
+                "landingPage": "http://w3id.org/spew/0000037",
+                "accessURL": "https://zenodo.org/record/574014/files/40.tar.gz"
             },
             "conformsTo": [
                 {

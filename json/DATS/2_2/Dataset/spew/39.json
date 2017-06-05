@@ -1,8 +1,8 @@
 {
-    "title": "Ohio Synthetic Ecosystem",
-    "description": "Ohio synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
+    "title": "Pennsylvania Synthetic Ecosystem",
+    "description": "Pennsylvania synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
     "identifier": {
-        "identifier": "https://doi.org/10.5281/zenodo.574013",
+        "identifier": "https://doi.org/10.5281/zenodo.574016",
         "identifierSource": "zenodo"
     },
     "creators": [
@@ -84,28 +84,28 @@
             }
         },
         {
-            "name": "Ohio",
+            "name": "Pennsylvania",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1594",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1213",
                 "identifierSource": "apollo location service"
             }
         }
     ],
     "spatialCoverage": [
         {
-            "name": "Ohio",
+            "name": "Pennsylvania",
             "description": "",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1594",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1213",
                 "identifierSource": "apollo location service"
             },
             "alternateIdentifiers": [
                 {
-                    "identifier": "US-OH",
+                    "identifier": "US-PA",
                     "identifierSource": "ISO 3166"
                 },
                 {
-                    "identifier": "39",
+                    "identifier": "42",
                     "identifierSource": "FIPS state code"
                 }
             ]
@@ -141,8 +141,8 @@
                 }
             ],
             "access": {
-                "landingPage": "http://w3id.org/spew/0000036",
-                "accessURL": "https://zenodo.org/record/574013/files/39.tar.gz"
+                "landingPage": "http://w3id.org/spew/0000039",
+                "accessURL": "https://zenodo.org/record/574016/files/42.tar.gz"
             },
             "conformsTo": [
                 {

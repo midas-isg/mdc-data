@@ -1,8 +1,8 @@
 {
-    "title": "Vermont Synthetic Ecosystem",
-    "description": "Vermont synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
+    "title": "Wisconsin Synthetic Ecosystem",
+    "description": "Wisconsin synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
     "identifier": {
-        "identifier": "https://doi.org/10.5281/zenodo.574023",
+        "identifier": "https://doi.org/10.5281/zenodo.574027",
         "identifierSource": "zenodo"
     },
     "creators": [
@@ -84,28 +84,28 @@
             }
         },
         {
-            "name": "Vermont",
+            "name": "Wisconsin",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1600",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1628",
                 "identifierSource": "apollo location service"
             }
         }
     ],
     "spatialCoverage": [
         {
-            "name": "Vermont",
+            "name": "Wisconsin",
             "description": "",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1600",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1628",
                 "identifierSource": "apollo location service"
             },
             "alternateIdentifiers": [
                 {
-                    "identifier": "US-VT",
+                    "identifier": "US-WI",
                     "identifierSource": "ISO 3166"
                 },
                 {
-                    "identifier": "50",
+                    "identifier": "55",
                     "identifierSource": "FIPS state code"
                 }
             ]
@@ -141,8 +141,8 @@
                 }
             ],
             "access": {
-                "landingPage": "http://w3id.org/spew/0000046",
-                "accessURL": "https://zenodo.org/record/574023/files/50.tar.gz"
+                "landingPage": "http://w3id.org/spew/0000050",
+                "accessURL": "https://zenodo.org/record/574027/files/55.tar.gz"
             },
             "conformsTo": [
                 {

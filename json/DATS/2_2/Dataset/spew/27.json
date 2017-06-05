@@ -1,8 +1,8 @@
 {
-    "title": "Minnesota Synthetic Ecosystem",
-    "description": "Minnesota synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
+    "title": "Montana Synthetic Ecosystem",
+    "description": "Montana synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
     "identifier": {
-        "identifier": "https://doi.org/10.5281/zenodo.574001",
+        "identifier": "https://doi.org/10.5281/zenodo.574004",
         "identifierSource": "zenodo"
     },
     "creators": [
@@ -84,28 +84,28 @@
             }
         },
         {
-            "name": "Minnesota",
+            "name": "Montana",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1588",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1590",
                 "identifierSource": "apollo location service"
             }
         }
     ],
     "spatialCoverage": [
         {
-            "name": "Minnesota",
+            "name": "Montana",
             "description": "",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1588",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1590",
                 "identifierSource": "apollo location service"
             },
             "alternateIdentifiers": [
                 {
-                    "identifier": "US-MN",
+                    "identifier": "US-MT",
                     "identifierSource": "ISO 3166"
                 },
                 {
-                    "identifier": "27",
+                    "identifier": "30",
                     "identifierSource": "FIPS state code"
                 }
             ]
@@ -141,8 +141,8 @@
                 }
             ],
             "access": {
-                "landingPage": "http://w3id.org/spew/0000024",
-                "accessURL": "https://zenodo.org/record/574001/files/27.tar.gz"
+                "landingPage": "http://w3id.org/spew/0000027",
+                "accessURL": "https://zenodo.org/record/574004/files/30.tar.gz"
             },
             "conformsTo": [
                 {

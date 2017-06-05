@@ -1,8 +1,8 @@
 {
-    "title": "New Mexico Synthetic Ecosystem",
-    "description": "New Mexico synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
+    "title": "North Dakota Synthetic Ecosystem",
+    "description": "North Dakota synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
     "identifier": {
-        "identifier": "https://doi.org/10.5281/zenodo.574009",
+        "identifier": "https://doi.org/10.5281/zenodo.574012",
         "identifierSource": "zenodo"
     },
     "creators": [
@@ -84,28 +84,28 @@
             }
         },
         {
-            "name": "New Mexico",
+            "name": "North Dakota",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1622",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1593",
                 "identifierSource": "apollo location service"
             }
         }
     ],
     "spatialCoverage": [
         {
-            "name": "New Mexico",
+            "name": "North Dakota",
             "description": "",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1622",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1593",
                 "identifierSource": "apollo location service"
             },
             "alternateIdentifiers": [
                 {
-                    "identifier": "US-NM",
+                    "identifier": "US-ND",
                     "identifierSource": "ISO 3166"
                 },
                 {
-                    "identifier": "35",
+                    "identifier": "38",
                     "identifierSource": "FIPS state code"
                 }
             ]
@@ -141,8 +141,8 @@
                 }
             ],
             "access": {
-                "landingPage": "http://w3id.org/spew/0000032",
-                "accessURL": "https://zenodo.org/record/574009/files/35.tar.gz"
+                "landingPage": "http://w3id.org/spew/0000035",
+                "accessURL": "https://zenodo.org/record/574012/files/38.tar.gz"
             },
             "conformsTo": [
                 {

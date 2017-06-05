@@ -1,8 +1,8 @@
 {
-    "title": "Nebraska Synthetic Ecosystem",
-    "description": "Nebraska synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
+    "title": "New Jersey Synthetic Ecosystem",
+    "description": "New Jersey synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
     "identifier": {
-        "identifier": "https://doi.org/10.5281/zenodo.574005",
+        "identifier": "https://doi.org/10.5281/zenodo.574008",
         "identifierSource": "zenodo"
     },
     "creators": [
@@ -84,28 +84,28 @@
             }
         },
         {
-            "name": "Nebraska",
+            "name": "New Jersey",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1621",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1592",
                 "identifierSource": "apollo location service"
             }
         }
     ],
     "spatialCoverage": [
         {
-            "name": "Nebraska",
+            "name": "New Jersey",
             "description": "",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1621",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1592",
                 "identifierSource": "apollo location service"
             },
             "alternateIdentifiers": [
                 {
-                    "identifier": "US-NE",
+                    "identifier": "US-NJ",
                     "identifierSource": "ISO 3166"
                 },
                 {
-                    "identifier": "31",
+                    "identifier": "34",
                     "identifierSource": "FIPS state code"
                 }
             ]
@@ -141,8 +141,8 @@
                 }
             ],
             "access": {
-                "landingPage": "http://w3id.org/spew/0000028",
-                "accessURL": "https://zenodo.org/record/574005/files/31.tar.gz"
+                "landingPage": "http://w3id.org/spew/0000031",
+                "accessURL": "https://zenodo.org/record/574008/files/34.tar.gz"
             },
             "conformsTo": [
                 {

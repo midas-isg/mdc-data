@@ -1,8 +1,8 @@
 {
-    "title": "West Virginia Synthetic Ecosystem",
-    "description": "West Virginia synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
+    "title": "Austria Synthetic Ecosystem",
+    "description": "Austria synthetic ecosystem dataset consisting of tables for persons and households. This dataset was created by the SPEW R Package using the following input data sources: GeoHive counts and IPUMS-I shapefiles and microdata.",
     "identifier": {
-        "identifier": "https://doi.org/10.5281/zenodo.574026",
+        "identifier": "https://doi.org/10.5281/zenodo.574031",
         "identifierSource": "zenodo"
     },
     "creators": [
@@ -70,43 +70,33 @@
             }
         },
         {
-            "name": "Schools",
+            "name": "Austria",
             "identifier": {
-                "identifier": "http://purl.obolibrary.org/obo/OMRSE_00000064",
-                "identifierSource": "https://biosharing.org/bsg-s000097"
-            }
-        },
-        {
-            "name": "Workplace facility",
-            "identifier": {
-                "identifier": "http://purl.obolibrary.org/obo/OMRSE_00000078",
-                "identifierSource": "https://biosharing.org/bsg-s000097"
-            }
-        },
-        {
-            "name": "West Virginia",
-            "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1601",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=4964",
                 "identifierSource": "apollo location service"
             }
         }
     ],
     "spatialCoverage": [
         {
-            "name": "West Virginia",
+            "name": "Austria",
             "description": "",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1601",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=4964",
                 "identifierSource": "apollo location service"
             },
             "alternateIdentifiers": [
                 {
-                    "identifier": "US-WV",
+                    "identifier": "AT",
                     "identifierSource": "ISO 3166"
                 },
                 {
-                    "identifier": "54",
-                    "identifierSource": "FIPS state code"
+                    "identifier": "AUT",
+                    "identifierSource": "ISO 3166-1 alpha-3"
+                },
+                {
+                    "identifier": "40",
+                    "identifierSource": "ISO 3166-1 numeric"
                 }
             ]
         }
@@ -141,19 +131,19 @@
                 }
             ],
             "access": {
-                "landingPage": "http://w3id.org/spew/0000049",
-                "accessURL": "https://zenodo.org/record/574026/files/54.tar.gz"
+                "landingPage": "http://w3id.org/spew/0000054",
+                "accessURL": "https://zenodo.org/record/574031/files/aut.tar.gz"
             },
             "conformsTo": [
                 {
                     "identifier": {
-                        "identifier": "SPEW.US format",
+                        "identifier": "SPEW.IPUMS format",
                         "identifierSource": "RODS Laboratory, University of Pittsburgh"
                     },
-                    "name": "SPEW.US format",
+                    "name": "SPEW.IPUMS format",
                     "type": {
-                        "value": "SPEW.US-File-Formats",
-                        "valueIRI": " https://github.com/midas-isg/data-format-repository/wiki/SPEW.US-File-Formats"
+                        "value": "SPEW.IPUMS-File-Formats",
+                        "valueIRI": "https://github.com/midas-isg/data-format-repository/wiki/SPEW.IPUMS-File-Formats"
                     }
                 }
             ],

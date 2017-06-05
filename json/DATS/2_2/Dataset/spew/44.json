@@ -1,8 +1,8 @@
 {
-    "title": "Rhode Island Synthetic Ecosystem",
-    "description": "Rhode Island synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
+    "title": "Texas Synthetic Ecosystem",
+    "description": "Texas synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
     "identifier": {
-        "identifier": "https://doi.org/10.5281/zenodo.574017",
+        "identifier": "https://doi.org/10.5281/zenodo.574021",
         "identifierSource": "zenodo"
     },
     "creators": [
@@ -84,28 +84,28 @@
             }
         },
         {
-            "name": "Rhode Island",
+            "name": "Texas",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1625",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1626",
                 "identifierSource": "apollo location service"
             }
         }
     ],
     "spatialCoverage": [
         {
-            "name": "Rhode Island",
+            "name": "Texas",
             "description": "",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1625",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1626",
                 "identifierSource": "apollo location service"
             },
             "alternateIdentifiers": [
                 {
-                    "identifier": "US-RI",
+                    "identifier": "US-TX",
                     "identifierSource": "ISO 3166"
                 },
                 {
-                    "identifier": "44",
+                    "identifier": "48",
                     "identifierSource": "FIPS state code"
                 }
             ]
@@ -141,8 +141,8 @@
                 }
             ],
             "access": {
-                "landingPage": "http://w3id.org/spew/0000040",
-                "accessURL": "https://zenodo.org/record/574017/files/44.tar.gz"
+                "landingPage": "http://w3id.org/spew/0000044",
+                "accessURL": "https://zenodo.org/record/574021/files/48.tar.gz"
             },
             "conformsTo": [
                 {

@@ -1,8 +1,8 @@
 {
-    "title": "Louisiana Synthetic Ecosystem",
-    "description": "Louisiana synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
+    "title": "Massachusetts Synthetic Ecosystem",
+    "description": "Massachusetts synthetic population dataset consisting of tables for persons, households, schools, and workplaces.  This dataset was created by the SPEW program from 2010 ACS SF 5-Year counts;  2010 US TIGER Roads; ACS PUMS 1-Year micro data; 2013 and 2011 NCES schools; and 2009 ESRI workplaces.",
     "identifier": {
-        "identifier": "https://doi.org/10.5281/zenodo.573996",
+        "identifier": "https://doi.org/10.5281/zenodo.573999",
         "identifierSource": "zenodo"
     },
     "creators": [
@@ -84,28 +84,28 @@
             }
         },
         {
-            "name": "Louisiana",
+            "name": "Massachusetts",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1586",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1609",
                 "identifierSource": "apollo location service"
             }
         }
     ],
     "spatialCoverage": [
         {
-            "name": "Louisiana",
+            "name": "Massachusetts",
             "description": "",
             "identifier": {
-                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1586",
+                "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id=1609",
                 "identifierSource": "apollo location service"
             },
             "alternateIdentifiers": [
                 {
-                    "identifier": "US-LA",
+                    "identifier": "US-MA",
                     "identifierSource": "ISO 3166"
                 },
                 {
-                    "identifier": "22",
+                    "identifier": "25",
                     "identifierSource": "FIPS state code"
                 }
             ]
@@ -141,8 +141,8 @@
                 }
             ],
             "access": {
-                "landingPage": "http://w3id.org/spew/0000019",
-                "accessURL": "https://zenodo.org/record/573996/files/22.tar.gz"
+                "landingPage": "http://w3id.org/spew/0000022",
+                "accessURL": "https://zenodo.org/record/573999/files/25.tar.gz"
             },
             "conformsTo": [
                 {
