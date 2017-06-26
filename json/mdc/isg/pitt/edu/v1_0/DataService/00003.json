@@ -1,6 +1,6 @@
 {
   "subtype": "Data services",
-  "title": "Epi-Data",
+  "title": "Epi-Data API",
   "dataServiceDescription": [
     {
       "accessPointType": "REST",

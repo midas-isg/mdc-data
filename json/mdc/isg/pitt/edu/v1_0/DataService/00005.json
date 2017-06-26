@@ -1,6 +1,6 @@
 {
   "subtype": "Data services",
-  "title": "Project Tycho",
+  "title": "Project Tycho Repository - web app and API",
   "dataServiceDescription": [
     {
       "accessPointType": "CUSTOM",
@@ -13,7 +13,8 @@
     "1.1.0"
   ],
   "dataOutputFormats": [
-    "Proprietary"
+    "MIDAS-ISG:tycho-dataset-format-v2.0",
+    "MIDAS-ISG:tycho-xml-output-format-v1.0"
   ],
   "dataInputFormats": [
     "Proprietary"
