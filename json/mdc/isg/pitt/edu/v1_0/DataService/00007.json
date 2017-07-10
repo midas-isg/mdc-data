@@ -16,7 +16,7 @@
     "MIDAS-ISG:noaa-climate-data-online-json-v2"
   ],
   "website": "https://www.ncdc.noaa.gov/",
-  "documentation": "https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted",
+  "documentation": "<a class=\"underline\" href=\"https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted\">https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted</a>",
   "version": [
     "2"
   ],
