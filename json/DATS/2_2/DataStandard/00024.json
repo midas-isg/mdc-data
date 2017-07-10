@@ -1,37 +1,25 @@
 {
   "identifier": {
-    "identifier": "BIOSHARING.ORG:bsg-s000228",
-    "identifierSource": "biosharing.org"
+    "identifier": "MIDAS-ISG:noaa-climate-data-online-json-v2",
+    "identifierSource": "MIDAS-ISG"
   },
-  "name": "FASTA Sequence Format",
+  "name": "NOAA Climate Data Online JSON",
+  "description": "All responses are JSON and will be a single item or a collection of items with metadata.",
   "type": {
-    "value": "sequence data",
-    "valueIRI": "http://purl.obolibrary.org/obo/OBI_0000973"
+    "value": "weather data",
+    "valueIRI": "http://need.an.iri.from.bill/"
   },
-  "description": "FASTA format is a text-based format for representing either nucleotide sequences or peptide sequences, in which nucleotides or amino acids are represented using single-letter codes. The format also allows for sequence names and comments to precede the sequences.",
   "licenses": [
-    {
-      "name": "No License Specified."
-    }
+    {}
   ],
-  "version": "",
+  "version": "2",
   "extraProperties": [
     {
       "category": "human-readable specification of data format",
       "categoryIRI": "",
       "values": [
         {
-          "value": "http://blast.ncbi.nlm.nih.gov/blastcgihelp.shtml",
-          "valueIRI": ""
-        }
-      ]
-    },
-    {
-      "category": "validator",
-      "categoryIRI": "",
-      "values": [
-        {
-          "value": "http://www.async.ece.utah.edu/sbol-validator/",
+          "value": "https://www.ncdc.noaa.gov/cdo-web/webservices/v2",
           "valueIRI": ""
         }
       ]
