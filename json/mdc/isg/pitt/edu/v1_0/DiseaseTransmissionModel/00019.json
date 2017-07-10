@@ -1,0 +1,36 @@
+{
+  "hostSpeciesIncluded": [
+    "Homo sapiens"
+  ],
+  "locationCoverage": [
+    "World"
+  ],
+  "pathogenCoverage": [
+    "HIV"
+  ],
+  "title": "HIV-TRACE",
+  "humanReadableSynopsis": "HIV TRACE is a tool that aids in understanding how HIV is spreading among infected individuals through reconstruction and analysis of HIV-1 molecular transmission networks.",
+  "dataInputFormats": [
+    "FASTA"
+  ],
+  "dataOutputFormats": [
+    "JSON (proprietary)"
+  ],
+  "sourceCodeRelease": "<a class=\"underline\" href=\"https://github.com/veg/hivtrace/releases/tag/0.3.0\">https://github.com/veg/hivtrace/releases/tag/0.3.0</a>",
+  "webApplication": [
+    "http://test.datamonkey.org/hivtrace"
+  ],
+  "license": "MIT",
+  "source": "https://github.com/veg/hivtrace",
+  "documentation": "<a class=\"underline\" href=\"https://github.com/veg/hivtrace/blob/master/README.md\">https://github.com/veg/hivtrace/blob/master/README.md</a>",
+  "publicationsThatUsedRelease": [
+    "Rose Rebecca, Lamers Susanna L., Dollar James J., Grabowski Mary K., Hodcroft Emma B., Ragonnet-Cronin Manon, Wertheim Joel O., Redd Andrew D., German Danielle, and Laeyendecker Oliver. AIDS Research and Human Retroviruses. March 2017, 33(3): 211-218. (<a href=\"https://doi.org/10.1089/aid.2016.0205\" class=\"underline\">doi:10.1089/aid.2016.0205</a>)"
+  ],
+  "version": [
+    "0.3.0"
+  ],
+  "availableOnOlympus": false,
+  "availableOnUIDS": false,
+  "signInRequired": false,
+  "subtype": "Disease transmission models"
+}
