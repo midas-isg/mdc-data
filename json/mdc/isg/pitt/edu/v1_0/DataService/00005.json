@@ -8,7 +8,7 @@
       "accessPointUrl": "http://www.tycho.pitt.edu/api/"
     }
   ],
-  "humanReadableSynopsis": "\u003cp\u003eThe Project Tycho API allows users to query the Project Tycho database for publicly available disease surveillance data.\u003c/p\u003e \u003cp\u003eMIDAS developers can use this web service to download disease surveillance data directly into their applications for processing.\u003c/p\u003e",
+  "humanReadableSynopsis": "<p>The API to the Project Tycho Repository retrieves weekly case counts for a range of notifiable conditions in the US at the state or city level for time periods between 1888 and 2014.</p> <p>The Project Tycho web application retrieves weekly case counts for a range of notifiable conditions in the US at the state or city level for time periods between 1888 and 2014.</p> <p>The API and web application retrieve the same information.</p>",
   "version": [
     "1.1.0"
   ],
