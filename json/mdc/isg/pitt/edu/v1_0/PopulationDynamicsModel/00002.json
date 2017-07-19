@@ -1,14 +1,19 @@
 {
   "subtype": "Population dynamics models",
-  "humanReadableSynopsis": "\u003cp\u003eSkeeter Buster is a detailed model of Aedes aegypti populations, developed at NC State University by a team led by Fred Gould (Entomology Dept.) and Alun Lloyd (Mathematics Dept.)\u003c/p\u003e It is a stochastic, spatially-explicit model that models cohorts of mosquitoes at a very fine spatial scale, down to the level of individual breeding sites for immature cohorts, or individual houses for adults. The biology of Ae. aegypti is described with great detail on the previously developed CIMSiM model (Focks et al., 1993). Skeeter Buster additionally includes a detailed genetic component, and can therefore model the genetics of Ae. aegypti populations, making it a crucial tool in the evaluation and development of genetic control strategies.",
+  "humanReadableSynopsis": "<p>Skeeter Buster is a detailed model of Aedes aegypti populations, developed at NC State University by a team led by Fred Gould (Entomology Dept.) and Alun Lloyd (Mathematics Dept.)</p> It is a stochastic, spatially-explicit model that models cohorts of mosquitoes at a very fine spatial scale, down to the level of individual breeding sites for immature cohorts, or individual houses for adults. The biology of Ae. aegypti is described with great detail on the previously developed CIMSiM model (Focks et al., 1993). Skeeter Buster additionally includes a detailed genetic component, and can therefore model the genetics of Ae. aegypti populations, making it a crucial tool in the evaluation and development of genetic control strategies.",
   "populationSpeciesIncluded": [
-    "Aedes aegypti"
+    {
+      "identifier": {
+        "identifier": "7159",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "website": "http://www.skeeterbuster.net/",
-  "sourceCodeRelease": "on request.  E-mail \u003ca href\u003d\"mailto:info@skeeterbuster.net?Subject\u003dSource%20code%20release\" target\u003d\"_top\" style\u003d\"text-decoration: underline\"\u003einfo@skeeterbuster.net\u003c/a\u003e",
-  "license": "\u003ca class\u003d\"underline\" href\u003d\"https://www.gnu.org/licenses/gpl-3.0.en.html\"\u003eGPLv3\u003c/a\u003e",
+  "sourceCodeRelease": "on request.  E-mail <a href=\"mailto:info@skeeterbuster.net?Subject=Source%20code%20release\" target=\"_top\" style=\"text-decoration: underline\">info@skeeterbuster.net</a>",
+  "license": "<a class=\"underline\" href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\">GPLv3</a>",
   "executables": [
-    "\u003ca href \u003d \"http://legrosmathi.eu/skeeterbuster/Skeeter_Buster.zip\" style\u003d\"text-decoration:underline\"\u003eWindows\u003c/a\u003e"
+    "<a href = \"http://legrosmathi.eu/skeeterbuster/Skeeter_Buster.zip\" style=\"text-decoration:underline\">Windows</a>"
   ],
   "title": "Skeeter Buster"
 }

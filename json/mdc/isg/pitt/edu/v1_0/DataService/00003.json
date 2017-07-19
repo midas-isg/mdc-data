@@ -17,6 +17,6 @@
   "dataInputFormats": [
     "Proprietary"
   ],
-  "humanReadableSynopsis": "\u003cp\u003eDELPHI’s Epi-Data API is a web service for looking up Influenza and Dengue data for the United States and Taiwan.\u003c/p\u003e \u003cp\u003eThe service connects to several Influenza data sources that provide ILI counts and estimates, and Wikipedia page hits for ILI related articles.  Dengue case counts are available for Taiwan.\u003c/p\u003e \u003cp\u003eMIDAS developers will find this web service useful as a single point of access to the several web services supported by the API.\u003c/p\u003e",
+  "humanReadableSynopsis": "<p>DELPHI\u2019s Epi-Data API is a web service for looking up Influenza and Dengue data for the United States and Taiwan.</p> <p>The service connects to several Influenza data sources that provide ILI counts and estimates, and Wikipedia page hits for ILI related articles.  Dengue case counts are available for Taiwan.</p> <p>MIDAS developers will find this web service useful as a single point of access to the several web services supported by the API.</p>",
   "source": "https://github.com/cmu-delphi/delphi-epidata"
 }

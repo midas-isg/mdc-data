@@ -4,26 +4,51 @@
     "commit f5e0cef"
   ],
   "pathogenCoverage": [
-    "Zika"
+    {
+      "identifier": {
+        "identifier": "64320",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "locationCoverage": [
-    "The Americas"
+    {
+      "identifier": {
+        "identifier": "The Americas",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "controlMeasures": [
-    "N/A"
+    {
+      "identifier": {
+        "identifier": "",
+        "identifierSource": ""
+      }
+    }
   ],
   "hostSpeciesIncluded": [
-    "Humans",
-    "Mosquitoes"
+    {
+      "identifier": {
+        "identifier": "9606",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "7157",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "humanReadableSynopsis": "This model projects Zika virus infections in childbearing women in the Americas.",
   "source": "https://github.com/TAlexPerkins/Zika_nmicrobiol_2016",
   "identifier": {
-    "identifier": "\u003ca href\u003d\"http://www.nature.com/articles/nmicrobiol2016126\" class\u003d\"underline\"\u003e10.1038/nmicrobiol.2016.126\u003c/a\u003e"
+    "identifier": "<a href=\"http://www.nature.com/articles/nmicrobiol2016126\" class=\"underline\">10.1038/nmicrobiol.2016.126</a>"
   },
   "publicationsThatUsedRelease": [
-    "Perkins TA, Siraj AS, Ruktanonchai CW, Kraemer MUGK, Tatem AJ. (2016) Model-based projections of Zika virus infections in childbearing women in the Americas. Nature Microbiology 1:16126. (\u003ca href\u003d\"http://dx.doi.org/10.1038/nmicrobiol.2016.126\" class\u003d\"underline\"\u003edoi:10.1038/nmicrobiol.2016.126\u003c/a\u003e)"
+    "Perkins TA, Siraj AS, Ruktanonchai CW, Kraemer MUGK, Tatem AJ. (2016) Model-based projections of Zika virus infections in childbearing women in the Americas. Nature Microbiology 1:16126. (<a href=\"http://dx.doi.org/10.1038/nmicrobiol.2016.126\" class=\"underline\">doi:10.1038/nmicrobiol.2016.126</a>)"
   ],
-  "license": "\u003ca href\u003d\"http://matt.might.net/articles/crapl/\" class\u003d\"underline\"\u003eCRAPL v0.1 License\u003c/a\u003e",
+  "license": "<a href=\"http://matt.might.net/articles/crapl/\" class=\"underline\">CRAPL v0.1 License</a>",
   "title": "Zika virus infections in childbearing women in the Americas"
 }

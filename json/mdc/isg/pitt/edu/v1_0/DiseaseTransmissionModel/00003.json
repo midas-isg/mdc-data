@@ -1,32 +1,87 @@
 {
   "subtype": "Disease transmission models",
   "product": "Open Malaria",
-  "humanReadableSynopsis": "\u003cp\u003eA simulator of malaria epidemiology and control.\u003c/p\u003e \u003cp\u003e This DTM can be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click \u003ca href\u003d\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class\u003d\"underline\"\u003ehere\u003c/a\u003e.\u003c/p\u003e",
+  "humanReadableSynopsis": "<p>A simulator of malaria epidemiology and control.</p> <p> This DTM can be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click <a href=\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class=\"underline\">here</a>.</p>",
   "version": [
     "32"
   ],
   "source": "https://github.com/SwissTPH/openmalaria/releases/tag/schema-32-RC3",
-  "sourceCodeRelease": "\u003ca href \u003d \"https://github.com/SwissTPH/openmalaria/archive/schema-32-RC3.zip\" style\u003d\"text-decoration:underline\"\u003eZIP\u003c/a\u003e, \u003ca href \u003d \"https://github.com/SwissTPH/openmalaria/archive/schema-32-RC3.tar.gz\" style\u003d\"text-decoration:underline\"\u003eTAR.GZ\u003c/a\u003e",
+  "sourceCodeRelease": "<a href = \"https://github.com/SwissTPH/openmalaria/archive/schema-32-RC3.zip\" style=\"text-decoration:underline\">ZIP</a>, <a href = \"https://github.com/SwissTPH/openmalaria/archive/schema-32-RC3.tar.gz\" style=\"text-decoration:underline\">TAR.GZ</a>",
   "locationCoverage": [
-    "N/A"
+    {
+      "identifier": {
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "pathogenCoverage": [
-    "Malaria"
+    {
+      "identifier": {
+        "identifier": "418103",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "hostSpeciesIncluded": [
-    "Humans",
-    "Mosquitoes"
+    {
+      "identifier": {
+        "identifier": "9606",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "7157",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "controlMeasures": [
-    "Mass drug deployment",
-    "vaccination",
-    "vector control interventions",
-    "indoor spraying",
-    "larviciding",
-    "zoo-prophylaxis",
-    "odour-baited traps"
+    {
+      "identifier": {
+        "identifier": "Mass drug deployment",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "vaccination",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "vector control interventions",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "indoor spraying",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "larviciding",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "zoo-prophylaxis",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "odour-baited traps",
+        "identifierSource": ""
+      }
+    }
   ],
-  "documentation": "\u003ca href\u003d\"https://github.com/SwissTPH/openmalaria/wiki\" class\u003d\"underline\"\u003ehttps://github.com/SwissTPH/openmalaria/wiki\u003c/a\u003e",
+  "documentation": "<a href=\"https://github.com/SwissTPH/openmalaria/wiki\" class=\"underline\">https://github.com/SwissTPH/openmalaria/wiki</a>",
   "availableOnOlympus": true,
   "title": "Open Malaria"
 }

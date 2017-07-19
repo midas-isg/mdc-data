@@ -1,13 +1,23 @@
 {
   "subtype": "Disease forecasters",
-  "humanReadableSynopsis": "This beta website houses the weekly influenza activity forecasts provided by eight research teams. It’s important to note that these are not CDC forecasts and that the forecasts on this website are not endorsed by CDC. These forecasts are based on different models, can vary significantly, and may be inaccurate.",
+  "humanReadableSynopsis": "This beta website houses the weekly influenza activity forecasts provided by eight research teams. It\u2019s important to note that these are not CDC forecasts and that the forecasts on this website are not endorsed by CDC. These forecasts are based on different models, can vary significantly, and may be inaccurate.",
   "forecastFrequency": "weekly",
   "type": "prospective 2015-2016",
   "diseases": [
-    "Influenza"
+    {
+      "identifier": {
+        "identifier": "11309",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "region": [
-    "10 US regions"
+    {
+      "identifier": {
+        "identifier": "10 US regions",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "forecasts": [
     "Start week",

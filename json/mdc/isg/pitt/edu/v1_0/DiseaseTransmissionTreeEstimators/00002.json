@@ -1,12 +1,27 @@
 {
   "hostSpeciesIncluded": [
-    "Homo sapiens"
+    {
+      "identifier": {
+        "identifier": "9606",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "locationCoverage": [
-    "World"
+    {
+      "identifier": {
+        "identifier": "Worldwide",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "pathogenCoverage": [
-    "HIV"
+    {
+      "identifier": {
+        "identifier": "12721",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "title": "HIV-TRACE",
   "humanReadableSynopsis": "HIV TRACE is a tool that aids in understanding how HIV is spreading among infected individuals through reconstruction and analysis of HIV-1 molecular transmission networks.",

@@ -14,7 +14,7 @@
   "webApplication": [
     "https://research.rods.pitt.edu/galapagos/"
   ],
-  "documentation": "\u003ca href\u003d\"https://research.rods.pitt.edu/Galapagos.pdf\" class\u003d\"underline\"\u003ehttps://research.rods.pitt.edu/Galapagos.pdf\u003c/a\u003e",
+  "documentation": "<a href=\"https://research.rods.pitt.edu/Galapagos.pdf\" class=\"underline\">https://research.rods.pitt.edu/Galapagos.pdf</a>",
   "signInRequired": true,
   "title": "Galapagos"
 }

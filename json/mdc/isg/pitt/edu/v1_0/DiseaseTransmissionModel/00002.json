@@ -9,24 +9,44 @@
     "Anna Seitzinger"
   ],
   "pathogenCoverage": [
-    "Avian influenza A",
-    "Foot-and-mouth disease",
-    "Pseudorabies"
+    {
+      "identifier": {
+        "identifier": "333278",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "12066",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "10345",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "locationCoverage": [
-    "Denmark"
+    {
+      "identifier": {
+        "identifier": "5196",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "documentation": "Reeves A, Hupalo R, Patyk KA, Hill AE: The North American Animal Disease Spread Model: A simulation model to assist decision making in evaluating animal disease incursions (2012)",
   "source": "https://sourceforge.net/projects/naadsm/",
   "executables": [
-    "Windows, Unix, and Mac OS executables can be found \u003ca class\u003d\"underline\" href\u003d\"http://www.naadsm.org/download\"\u003ehere\u003c/a\u003e"
+    "Windows, Unix, and Mac OS executables can be found <a class=\"underline\" href=\"http://www.naadsm.org/download\">here</a>"
   ],
   "website": "http://www.naadsm.org/about",
   "version": [
     "v3.3",
     "4.0"
   ],
-  "license": "\u003ca class\u003d\"underline\" href\u003d\"http://www.gnu.org/licenses/gpl-2.0.html\"\u003eGPL (GNU General Public License)\u003c/a\u003e",
+  "license": "<a class=\"underline\" href=\"http://www.gnu.org/licenses/gpl-2.0.html\">GPL (GNU General Public License)</a>",
   "publicationsThatUsedRelease": [
     "Cozzens T, Gebhardt K, Shwiff S, Lutman M, Pedersen K, et al.: Modeling the Economic Impact of Feral Swine-Transmitted Foot-and- Mouth Disease: A Case Study from Missouri (2010)",
     "Dube C, Ribble C, Kelton D, McNab B, Javier S, et al.: Network analysis of livestock movements to estimate potential silent spread of Foot-and-Mouth Disease (2008)",
@@ -39,10 +59,20 @@
     "Dillon E, Matthews A, Thorne F: Foot-and-Mouth Disease control costs compared: An Irish case study (2007)"
   ],
   "hostSpeciesIncluded": [
-    "N/A"
+    {
+      "identifier": {
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "controlMeasures": [
-    "N/A"
+    {
+      "identifier": {
+        "identifier": "",
+        "identifierSource": ""
+      }
+    }
   ],
   "title": "NAADSM"
 }

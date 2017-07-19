@@ -1,32 +1,52 @@
 {
   "subtype": "Disease transmission models",
   "title": "GLEAM",
-  "humanReadableSynopsis": "\u003cp\u003eGLEAM (GLobal Epidemic and Mobility Model) produces realistic simulations of the global spread of infectious diseases. It integrates three layers: real-world data on the global population; real-world data on the mobility of this population; an individual based stochastic mathematical model of the infection dynamics.\u003c/p\u003e \u003cp\u003eThe GLEAM Simulator system consists of the GLEAM Server and the GLEAMviz Client application. The GLEAM Server uses GLEAM as the engine to perform the simulations. This server runs on high-performance computers managed by the GLEAM project. The GLEAMviz Client is a desktop application through which users interact with the GLEAM Server. It provides a simple, intuitive and visual way to set up simulations, develop disease models, and evaluate simulation results using a variety of maps, charts and data analysis tools.\u003c/p\u003e",
+  "humanReadableSynopsis": "<p>GLEAM (GLobal Epidemic and Mobility Model) produces realistic simulations of the global spread of infectious diseases. It integrates three layers: real-world data on the global population; real-world data on the mobility of this population; an individual based stochastic mathematical model of the infection dynamics.</p> <p>The GLEAM Simulator system consists of the GLEAM Server and the GLEAMviz Client application. The GLEAM Server uses GLEAM as the engine to perform the simulations. This server runs on high-performance computers managed by the GLEAM project. The GLEAMviz Client is a desktop application through which users interact with the GLEAM Server. It provides a simple, intuitive and visual way to set up simulations, develop disease models, and evaluate simulation results using a variety of maps, charts and data analysis tools.</p>",
   "pathogenCoverage": [
-    "Communicable human-to-human"
+    {
+      "identifier": {
+        "identifier": "communicable human-to-human",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "locationCoverage": [
-    "Worldwide"
+    {
+      "identifier": {
+        "identifier": "Worldwide",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "hostSpeciesIncluded": [
-    "Humans"
+    {
+      "identifier": {
+        "identifier": "9606",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "controlMeasures": [
-    "Travel restriction"
+    {
+      "identifier": {
+        "identifier": "Travel restriction",
+        "identifierSource": ""
+      }
+    }
   ],
   "version": [
     "v2.0 - GLEAM Server",
     "v6.7 - GLEAMviz simulator client"
   ],
   "executables": [
-    "\u003ca class\u003d\"underline\" href\u003d\"http://www.gleamviz.org/simul/bin/GLEAMviz-6.7-windows-installer.exe\"\u003eWindows client\u003c/a\u003e",
-    "\u003ca class\u003d\"underline\" href\u003d\"http://www.gleamviz.org/simul/bin/GLEAMviz-6.7-osx-installer.app.zip\"\u003eOSX client\u003c/a\u003e",
-    "\u003ca class\u003d\"underline\" href\u003d\"http://www.gleamviz.org/simul/bin/GLEAMviz-6.7-linux-x64-installer.run\"\u003eLinux 64-bit client\u003c/a\u003e"
+    "<a class=\"underline\" href=\"http://www.gleamviz.org/simul/bin/GLEAMviz-6.7-windows-installer.exe\">Windows client</a>",
+    "<a class=\"underline\" href=\"http://www.gleamviz.org/simul/bin/GLEAMviz-6.7-osx-installer.app.zip\">OSX client</a>",
+    "<a class=\"underline\" href=\"http://www.gleamviz.org/simul/bin/GLEAMviz-6.7-linux-x64-installer.run\">Linux 64-bit client</a>"
   ],
-  "documentation": "\u003ca class\u003d\"underline\" href\u003d\"http://www.gleamviz.org/simulator/GLEAMviz_client_manual_v6.7.pdf\" download\u003eGLEAMviz simulator client manual v6.7\u003c/a\u003e",
+  "documentation": "<a class=\"underline\" href=\"http://www.gleamviz.org/simulator/GLEAMviz_client_manual_v6.7.pdf\" download>GLEAMviz simulator client manual v6.7</a>",
   "website": "http://www.gleamviz.org",
   "license": "Proprietary",
   "publicationsAboutRelease": [
-    "\u003ca href \u003d \"http://www.gleamviz.org/publications/\" style\u003d\"text-decoration:underline\"\u003ehttp://www.gleamviz.org/publications/\u003c/a\u003e"
+    "<a href = \"http://www.gleamviz.org/publications/\" style=\"text-decoration:underline\">http://www.gleamviz.org/publications/</a>"
   ]
 }

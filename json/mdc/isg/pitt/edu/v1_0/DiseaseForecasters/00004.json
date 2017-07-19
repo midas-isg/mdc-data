@@ -4,10 +4,20 @@
   "type": "prospective 2013-2016",
   "forecastFrequency": "weekly",
   "diseases": [
-    "Influenza"
+    {
+      "identifier": {
+        "identifier": "11309",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "region": [
-    "Countries worldwide"
+    {
+      "identifier": {
+        "identifier": "Worldwide",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "forecasts": [
     "weighted percent ILI visits"

@@ -3,10 +3,10 @@
   "version": [
     "3.0"
   ],
-  "license": "\u003ca class\u003d\"underline\" href\u003d\"https://www.gnu.org/licenses/gpl-3.0.en.html\"\u003eGNU Public License\u003c/a\u003e",
+  "license": "<a class=\"underline\" href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\">GNU Public License</a>",
   "humanReadableSynopsis": "PhyML is a phylogeny software based on the maximum-likelihood principle. Binaries are available for Linux, MacOS and Windows; the source code is available on request.",
   "developers": [
-    "Stéphane Guidon (LIRMM, Montpellier, France.)",
+    "St\u00e9phane Guidon (LIRMM, Montpellier, France.)",
     "Olivier Gascuel (LIRMM, Montpellier, France.)"
   ],
   "dataInputFormats": [
@@ -21,14 +21,14 @@
     "http://www.atgc-montpellier.fr/phyml/"
   ],
   "executables": [
-    "\u003ca class\u003d\"underline\" href\u003d\"http://www.atgc-montpellier.fr/phyml/binaries.php \"\u003eExecutable Binaries\u003c/a\u003e"
+    "<a class=\"underline\" href=\"http://www.atgc-montpellier.fr/phyml/binaries.php \">Executable Binaries</a>"
   ],
   "publicationsAboutRelease": [
-    "\"New Algorithms and Methods to Estimate Maximum-Likelihood Phylogenies: Assessing the Performance of PhyML 3.0.\" Guindon S., Dufayard J.F., Lefort V., Anisimova M., Hordijk W., Gascuel O. Systematic Biology, 59(3):307-21, 2010. (\u003ca href\u003d\" https://doi.org/10.1093/sysbio/syq010\", class\u003d\"underline\"\u003edoi:10.1093/sysbio/syq010\u003c/a\u003e)"
+    "\"New Algorithms and Methods to Estimate Maximum-Likelihood Phylogenies: Assessing the Performance of PhyML 3.0.\" Guindon S., Dufayard J.F., Lefort V., Anisimova M., Hordijk W., Gascuel O. Systematic Biology, 59(3):307-21, 2010. (<a href=\" https://doi.org/10.1093/sysbio/syq010\", class=\"underline\">doi:10.1093/sysbio/syq010</a>)"
   ],
   "publicationsThatUsedRelease": [
-    "\u003ca class\u003d\"underline\" href\u003d\"http://biorxiv.org/content/early/2016/09/16/071779\"\u003ehttp://biorxiv.org/content/early/2016/09/16/071779\u003c/a\u003e"
+    "<a class=\"underline\" href=\"http://biorxiv.org/content/early/2016/09/16/071779\">http://biorxiv.org/content/early/2016/09/16/071779</a>"
   ],
-  "documentation": "\u003ca class\u003d\"underline\" href\u003d\"http://www.atgc-montpellier.fr/download/papers/phyml_manual_2012.pdf\" download\u003ehttp://www.atgc-montpellier.fr/download/papers/phyml_manual_2012.pdf\u003c/a\u003e",
+  "documentation": "<a class=\"underline\" href=\"http://www.atgc-montpellier.fr/download/papers/phyml_manual_2012.pdf\" download>http://www.atgc-montpellier.fr/download/papers/phyml_manual_2012.pdf</a>",
   "title": "PhyML"
 }

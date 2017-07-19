@@ -4,10 +4,20 @@
   "forecastFrequency": "weekly",
   "type": "prospective 2016-2017",
   "diseases": [
-    "Influenza"
+    {
+      "identifier": {
+        "identifier": "11309",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "region": [
-    "95 US cities"
+    {
+      "identifier": {
+        "identifier": "95 US cities",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "forecasts": [
     "Weekly count of observed influenza like illness"

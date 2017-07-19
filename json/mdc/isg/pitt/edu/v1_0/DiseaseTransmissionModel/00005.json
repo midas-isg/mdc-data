@@ -6,32 +6,87 @@
     "36.11"
   ],
   "locationCoverage": [
-    "N/A"
+    {
+      "identifier": {
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "controlMeasures": [
-    "Mass drug deployment",
-    "vaccination",
-    "vector control interventions",
-    "indoor spraying",
-    "larviciding",
-    "zoo-prophylaxis",
-    "odour-baited traps"
+    {
+      "identifier": {
+        "identifier": "Mass drug deployment",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "vaccination",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "vector control interventions",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "indoor spraying",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "larviciding",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "zoo-prophylaxis",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "odour-baited traps",
+        "identifierSource": ""
+      }
+    }
   ],
   "executables": [
-    "\u003ca href \u003d \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-linux.tar.gz\" style\u003d\"text-decoration:underline\"\u003eLinux\u003c/a\u003e",
-    "\u003ca href \u003d \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-osx.tar.gz\" style\u003d\"text-decoration:underline\"\u003eOS X\u003c/a\u003e",
-    "\u003ca href \u003d \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-windows-no-libs.zip\" style\u003d\"text-decoration:underline\"\u003eWindows - no libs\u003c/a\u003e",
-    "\u003ca href \u003d \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-windows.zip\" style\u003d\"text-decoration:underline\"\u003eWindows w/ libs\u003c/a\u003e"
+    "<a href = \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-linux.tar.gz\" style=\"text-decoration:underline\">Linux</a>",
+    "<a href = \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-osx.tar.gz\" style=\"text-decoration:underline\">OS X</a>",
+    "<a href = \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-windows-no-libs.zip\" style=\"text-decoration:underline\">Windows - no libs</a>",
+    "<a href = \"https://github.com/SwissTPH/openmalaria/releases/download/schema-36.1.1/openMalaria-windows.zip\" style=\"text-decoration:underline\">Windows w/ libs</a>"
   ],
   "source": "https://github.com/SwissTPH/openmalaria",
-  "sourceCodeRelease": "\u003ca href \u003d \"https://github.com/SwissTPH/openmalaria/archive/schema-36.1.1.zip\" style\u003d\"text-decoration:underline\"\u003eZIP\u003c/a\u003e, \u003ca href \u003d \"https://github.com/SwissTPH/openmalaria/archive/schema-36.1.1.tar.gz\" style\u003d\"text-decoration:underline\"\u003eTAR.GZ\u003c/a\u003e",
+  "sourceCodeRelease": "<a href = \"https://github.com/SwissTPH/openmalaria/archive/schema-36.1.1.zip\" style=\"text-decoration:underline\">ZIP</a>, <a href = \"https://github.com/SwissTPH/openmalaria/archive/schema-36.1.1.tar.gz\" style=\"text-decoration:underline\">TAR.GZ</a>",
   "pathogenCoverage": [
-    "Malaria"
+    {
+      "identifier": {
+        "identifier": "418103",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "hostSpeciesIncluded": [
-    "Humans",
-    "Mosquitoes"
+    {
+      "identifier": {
+        "identifier": "9606",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "7157",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
-  "documentation": "\u003ca href\u003d\"https://github.com/SwissTPH/openmalaria/wiki\" class\u003d\"underline\"\u003ehttps://github.com/SwissTPH/openmalaria/wiki\u003c/a\u003e",
+  "documentation": "<a href=\"https://github.com/SwissTPH/openmalaria/wiki\" class=\"underline\">https://github.com/SwissTPH/openmalaria/wiki</a>",
   "title": "Open Malaria"
 }

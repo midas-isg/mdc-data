@@ -4,7 +4,7 @@
   "dataServiceDescription": [
     {
       "accessPointType": "CUSTOM",
-      "accessPointDescription": "\u003ca class\u003d\"underline\" href\u003d\"http://www.tycho.pitt.edu/api_help.php\"\u003ehttp://www.tycho.pitt.edu/api_help.php\u003c/a\u003e (sign-up required)",
+      "accessPointDescription": "<a class=\"underline\" href=\"http://www.tycho.pitt.edu/api_help.php\">http://www.tycho.pitt.edu/api_help.php</a> (sign-up required)",
       "accessPointUrl": "http://www.tycho.pitt.edu/api/"
     }
   ],

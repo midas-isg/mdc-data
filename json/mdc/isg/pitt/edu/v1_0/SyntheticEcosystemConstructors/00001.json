@@ -9,7 +9,7 @@
   ],
   "website": "http://www.stat.cmu.edu/~spew/",
   "executables": [
-    "\u003ca href\u003d\"http://data.olympus.psc.edu/syneco/spew_1.2.0/spew_1.2.0.tar.gz\" style\u003d\"text-decoration:underline\"\u003eOS X\u003c/a\u003e"
+    "<a href=\"http://data.olympus.psc.edu/syneco/spew_1.2.0/spew_1.2.0.tar.gz\" style=\"text-decoration:underline\">OS X</a>"
   ],
   "source": "https://github.com/leerichardson/spew",
   "version": [
@@ -20,6 +20,6 @@
     "MIDAS-ISG:spew-ipums-format-v1.2.0",
     "MIDAS-ISG:spew-canada-format-v1.2.0"
   ],
-  "documentation": "\u003ca href\u003d\"http://www.stat.cmu.edu/~spew/assets/spew_documentation.pdf\" class\u003d\"underline\" download\u003eDocumentation for completed synthetic ecosystems [PDF]\u003c/a\u003e",
+  "documentation": "<a href=\"http://www.stat.cmu.edu/~spew/assets/spew_documentation.pdf\" class=\"underline\" download>Documentation for completed synthetic ecosystems [PDF]</a>",
   "title": "spew"
 }

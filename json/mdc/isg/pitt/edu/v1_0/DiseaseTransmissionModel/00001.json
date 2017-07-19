@@ -1,37 +1,87 @@
 {
   "subtype": "Disease transmission models",
   "product": "FluTE",
-  "humanReadableSynopsis": "\u003cp\u003eA version of \u003ca href\u003d\"https://github.com/dlchao/FluTE\", class\u003d\"underline\"\u003eFluTE\u003c/a\u003e forked by the Pittsburgh Supercomputing Center that supports simulating over the whole US population and works with Apollo Web Services.\u003c/p\u003e \u003cp\u003eThis disease transmission model (DTM) can be run using the Universal Interface to Disease Simulators available \u003ca href\u003d\"http://research.rods.pitt.edu/apollo-web-client/\" class\u003d\"underline\"\u003ehere\u003c/a\u003e.\u003c/p\u003e \u003cp\u003e This DTM can also be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click \u003ca href\u003d\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class\u003d\"underline\"\u003ehere\u003c/a\u003e.\u003c/p\u003e",
+  "humanReadableSynopsis": "<p>A version of <a href=\"https://github.com/dlchao/FluTE\", class=\"underline\">FluTE</a> forked by the Pittsburgh Supercomputing Center that supports simulating over the whole US population and works with Apollo Web Services.</p> <p>This disease transmission model (DTM) can be run using the Universal Interface to Disease Simulators available <a href=\"http://research.rods.pitt.edu/apollo-web-client/\" class=\"underline\">here</a>.</p> <p> This DTM can also be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click <a href=\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class=\"underline\">here</a>.</p>",
   "pathogenCoverage": [
-    "Influenza"
+    {
+      "identifier": {
+        "identifier": "11309",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "identifier": {
-    "identifier": "\u003ca href\u003d\"http://dx.doi.org/10.5281/zenodo.268028\", class\u003d\"underline\"\u003e10.5281/zenodo.268028\u003c/a\u003e"
+    "identifier": "<a href=\"http://dx.doi.org/10.5281/zenodo.268028\", class=\"underline\">10.5281/zenodo.268028</a>"
   },
   "source": "https://github.com/PSC-PublicHealth/FluTE",
-  "sourceCodeRelease": "\u003ca href\u003d\"https://zenodo.org/record/268028#.WJiSt2V8-sM\" class\u003d\"underline\"\u003ehttps://zenodo.org/record/268028#.WJiSt2V8-sM\u003c/a\u003e",
+  "sourceCodeRelease": "<a href=\"https://zenodo.org/record/268028#.WJiSt2V8-sM\" class=\"underline\">https://zenodo.org/record/268028#.WJiSt2V8-sM</a>",
   "version": [
     "apollo-flute-1.1"
   ],
-  "documentation": "\u003ca href\u003d\"https://github.com/PSC-PublicHealth/FluTE/blob/apollo-flute-1.1/README\" class\u003d\"underline\"\u003ehttps://github.com/PSC-PublicHealth/FluTE/blob/apollo-flute-1.1/README\u003c/a\u003e",
+  "documentation": "<a href=\"https://github.com/PSC-PublicHealth/FluTE/blob/apollo-flute-1.1/README\" class=\"underline\">https://github.com/PSC-PublicHealth/FluTE/blob/apollo-flute-1.1/README</a>",
   "locationCoverage": [
-    "United States"
+    {
+      "identifier": {
+        "identifier": "1216",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "availableOnOlympus": true,
   "availableOnUIDS": true,
   "hostSpeciesIncluded": [
-    "Humans"
+    {
+      "identifier": {
+        "identifier": "9606",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "controlMeasures": [
-    "Antivirals",
-    "isolation",
-    "liberal sick leave",
-    "quarantine",
-    "school closure",
-    "travel restriction",
-    "vaccination"
+    {
+      "identifier": {
+        "identifier": "Antivirals",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "isolation",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "liberal sick leave",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "quarantine",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "school closure",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "travel restriction",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "vaccination",
+        "identifierSource": ""
+      }
+    }
   ],
-  "license": "\u003ca class\u003d\"underline\" href\u003d\"https://www.gnu.org/licenses/gpl-3.0.en.html\"\u003eGNU Public License\u003c/a\u003e",
+  "license": "<a class=\"underline\" href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\">GNU Public License</a>",
   "title": "Apollo FluTE",
   "dataInputFormats": [
     "APOLLO:InfectiousDiseaseScenario-v4.0.1",

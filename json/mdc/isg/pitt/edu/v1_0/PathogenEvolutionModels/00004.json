@@ -4,8 +4,8 @@
   "developers": [
     "Colin Worby"
   ],
-  "website": "https://CRAN.R-project.org/package\u003dseedy",
-  "documentation": "\u003ca href\u003d\"https://cran.r-project.org/web/packages/seedy/seedy.pdf\" class\u003d\"underline\"\u003ehttps://cran.r-project.org/web/packages/seedy/seedy.pdf\u003c/a\u003e",
+  "website": "https://CRAN.R-project.org/package=seedy",
+  "documentation": "<a href=\"https://cran.r-project.org/web/packages/seedy/seedy.pdf\" class=\"underline\">https://cran.r-project.org/web/packages/seedy/seedy.pdf</a>",
   "version": [
     "1.3"
   ],

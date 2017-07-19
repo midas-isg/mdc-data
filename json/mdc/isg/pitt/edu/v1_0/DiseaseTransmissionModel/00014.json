@@ -3,23 +3,78 @@
   "humanReadableSynopsis": "FluTE is a stochastic model of the spread of influenza across a large population. Individuals in this model have realistic social contact networks, and transmission and infections are based on the current state of knowledge of the natural history of influenza. The model has been calibrated so that outcomes are consistent with the 1957/1958 Asian A(H2N2) and 2009 pandemic A(H1N1) influenza viruses.",
   "product": "FluTE",
   "pathogenCoverage": [
-    "Influenza"
+    {
+      "identifier": {
+        "identifier": "11309",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "locationCoverage": [
-    "Los Angeles",
-    "Seattle"
+    {
+      "identifier": {
+        "identifier": "366188",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "510873",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "hostSpeciesIncluded": [
-    "Humans"
+    {
+      "identifier": {
+        "identifier": "9606",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "controlMeasures": [
-    "Antivirals",
-    "isolation",
-    "liberal sick leave",
-    "quarantine",
-    "school closure",
-    "travel restriction",
-    "vaccination"
+    {
+      "identifier": {
+        "identifier": "Antivirals",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "isolation",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "liberal sick leave",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "quarantine",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "school closure",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "travel restriction",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "vaccination",
+        "identifierSource": ""
+      }
+    }
   ],
   "source": "https://github.com/dlchao/FluTE",
   "version": [
@@ -28,7 +83,7 @@
     "1.16"
   ],
   "publicationsAboutRelease": [
-    "Chao DL, Halloran ME, Obenchain VJ, Longini IM Jr (2010) FluTE, a Publicly Available Stochastic Influenza Epidemic Simulation Model. PLoS Comput Biol 6(1): e1000656.  (doi:\u003ca href\u003d\"http://dx.doi.org/10.1371/journal.pcbi.1000656\" class\u003d\"underline\"\u003e10.1371/journal.pcbi.1000656\u003c/a\u003e)"
+    "Chao DL, Halloran ME, Obenchain VJ, Longini IM Jr (2010) FluTE, a Publicly Available Stochastic Influenza Epidemic Simulation Model. PLoS Comput Biol 6(1): e1000656.  (doi:<a href=\"http://dx.doi.org/10.1371/journal.pcbi.1000656\" class=\"underline\">10.1371/journal.pcbi.1000656</a>)"
   ],
   "title": "FluTE"
 }

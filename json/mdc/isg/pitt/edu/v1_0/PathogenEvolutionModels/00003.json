@@ -12,18 +12,48 @@
     "Worldwide"
   ],
   "pathogens": [
-    "Zika virus",
-    "ebola virus",
-    "avian influenza virus A/H7N9",
-    "h1n1 influenza",
-    "h3n2 influenza",
-    "Dengue virus"
+    {
+      "identifier": {
+        "identifier": "64320",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "1570291",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "333278",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "114727",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "119210",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "12637",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "dataInputFormats": [
     "BIOSHARING.ORG:bsg-s000228"
   ],
   "source": "https://github.com/nextstrain",
   "website": "http://nextstrain.org/",
-  "license": "\u003ca href\u003d\"https://www.gnu.org/licenses/agpl-3.0.en.html\" class\u003d\"underline\"\u003eGNU Affero General Public License\u003c/a\u003e",
+  "license": "<a href=\"https://www.gnu.org/licenses/agpl-3.0.en.html\" class=\"underline\">GNU Affero General Public License</a>",
   "title": "nextstrain organization"
 }

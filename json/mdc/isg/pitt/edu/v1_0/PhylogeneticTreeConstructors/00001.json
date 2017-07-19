@@ -3,7 +3,7 @@
   "version": [
     "3.696"
   ],
-  "humanReadableSynopsis": "PHYLogeny Inference Package (PHYLIP) is a free computational phylogenetics package of programs for inferring evolutionary trees (phylogenies). It consists of 35 portable programs, i.e., the source code is written in the programming language C. Releases occur as source code, and as precompiled executables for many operating systems including Windows (95, 98, ME, NT, 2000, XP, Vista), Mac OS 8, Mac OS 9, OS X, Linux (Debian, Red Hat); and FreeBSD from \u003ca class\u003d\"underline\" href\u003d\"https://www.freebsd.org/\"\u003eFreeBSD.org\u003c/a\u003e. Full documentation is written for all the programs in the package and is included therein.",
+  "humanReadableSynopsis": "PHYLogeny Inference Package (PHYLIP) is a free computational phylogenetics package of programs for inferring evolutionary trees (phylogenies). It consists of 35 portable programs, i.e., the source code is written in the programming language C. Releases occur as source code, and as precompiled executables for many operating systems including Windows (95, 98, ME, NT, 2000, XP, Vista), Mac OS 8, Mac OS 9, OS X, Linux (Debian, Red Hat); and FreeBSD from <a class=\"underline\" href=\"https://www.freebsd.org/\">FreeBSD.org</a>. Full documentation is written for all the programs in the package and is included therein.",
   "developers": [
     "Professor Joseph Felsenstein, of the Department of Genome Sciences and the Department of Biology, University of Washington, Seattle."
   ],
@@ -11,7 +11,7 @@
     "UW-DGS-DB:phylip-format-v3.695"
   ],
   "executables": [
-    "\u003ca class\u003d\"underline\" href\u003d\"http://evolution.genetics.washington.edu/phylip/sourcecode.html\"\u003eExecutable Binaries\u003c/a\u003e"
+    "<a class=\"underline\" href=\"http://evolution.genetics.washington.edu/phylip/sourcecode.html\">Executable Binaries</a>"
   ],
   "title": "PHYLIP"
 }

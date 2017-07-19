@@ -7,23 +7,58 @@
   ],
   "source": "https://github.com/PublicHealthDynamicsLab/FRED/tree/FRED-v2.12.0",
   "locationCoverage": [
-    "United States"
+    {
+      "identifier": {
+        "identifier": "1216",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "hostSpeciesIncluded": [
-    "Humans"
+    {
+      "identifier": {
+        "identifier": "9606",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "pathogenCoverage": [
-    "Communicable human-to-human"
+    {
+      "identifier": {
+        "identifier": "communicable human-to-human",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "dataInputFormats": [
     "MIDAS-ISG:synthia-us-v2010",
     "Proprietary"
   ],
   "controlMeasures": [
-    "Vaccination",
-    "quarantine",
-    "reactive school closures",
-    "global school closures"
+    {
+      "identifier": {
+        "identifier": "Vaccination",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "quarantine",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "reactive school closures",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "global school closures",
+        "identifierSource": ""
+      }
+    }
   ],
   "webApplication": [
     "http://fred.publichealth.pitt.edu/simulator/"

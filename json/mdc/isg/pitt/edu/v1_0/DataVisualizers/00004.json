@@ -1,6 +1,6 @@
 {
   "subtype": "Data visualizers",
-  "humanReadableSynopsis": "\u003cp\u003eFlusight is a static influenza forecasts visualizer. It takes weekly prediction files in the format used by \u003ca href\u003d\"https://predict.phiresearchlab.org/\" class\u003d\"underline\"\u003eCDC FluSight Challenge\u003c/a\u003e, extracts entities needed for visualization and generates a minified webpage ready for static hosting. The visualizer uses an intermediate file, summarizing the predictions, which can be generated either by the set of scripts in the repository (which uses CDC\u0027s prediction format) or by the user.\u003c/p\u003e \u003cp\u003eA live version associated with this github repository at \u003ca href\u003d\"http://reichlab.io/flusight/\" class\u003d\"underline\"\u003ehttp://reichlab.io/flusight/\u003c/a\u003e displays predictions for CDC FluSight Challenge by \u003ca href\u003d\"http://reichlab.io/\" class\u003d\"underline\"\u003eReich Lab\u003c/a\u003e at UMass Amherst. To know more about it, go to the \u003ca href\u003d\"https://github.com/reichlab/flusight/wiki/About\" class\u003d\"underline\"\u003eabout\u003c/a\u003e page in the \u003ca href\u003d\"https://github.com/reichlab/flusight/wiki\" class\u003d\"underline\"\u003ewiki\u003c/a\u003e.\u003c/p\u003e",
+  "humanReadableSynopsis": "<p>Flusight is a static influenza forecasts visualizer. It takes weekly prediction files in the format used by <a href=\"https://predict.phiresearchlab.org/\" class=\"underline\">CDC FluSight Challenge</a>, extracts entities needed for visualization and generates a minified webpage ready for static hosting. The visualizer uses an intermediate file, summarizing the predictions, which can be generated either by the set of scripts in the repository (which uses CDC's prediction format) or by the user.</p> <p>A live version associated with this github repository at <a href=\"http://reichlab.io/flusight/\" class=\"underline\">http://reichlab.io/flusight/</a> displays predictions for CDC FluSight Challenge by <a href=\"http://reichlab.io/\" class=\"underline\">Reich Lab</a> at UMass Amherst. To know more about it, go to the <a href=\"https://github.com/reichlab/flusight/wiki/About\" class=\"underline\">about</a> page in the <a href=\"https://github.com/reichlab/flusight/wiki\" class=\"underline\">wiki</a>.</p>",
   "developers": [
     "Nick Reich",
     "Abhinav Tushar",
@@ -14,7 +14,7 @@
   ],
   "source": "https://github.com/reichlab/flusight/releases/tag/v1.3.2",
   "identifier": {
-    "identifier": "\u003ca href\u003d\"http://dx.doi.org/10.5281/zenodo.192509\", class\u003d\"underline\"\u003e10.5281/zenodo.192509\u003c/a\u003e"
+    "identifier": "<a href=\"http://dx.doi.org/10.5281/zenodo.192509\", class=\"underline\">10.5281/zenodo.192509</a>"
   },
   "grants": [
     "R35GM119582"
@@ -22,6 +22,6 @@
   "dataInputFormats": [
     "MIDAS-ISG:flusight-forecast-v1.0"
   ],
-  "license": "\u003ca href\u003d\"https://github.com/reichlab/flusight/blob/master/LICENSE\" class\u003d\"underline\"\u003eMIT\u003c/a\u003e",
+  "license": "<a href=\"https://github.com/reichlab/flusight/blob/master/LICENSE\" class=\"underline\">MIT</a>",
   "title": "FluSight"
 }

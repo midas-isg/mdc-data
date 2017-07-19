@@ -5,23 +5,68 @@
     "beta-1.0"
   ],
   "locationCoverage": [
-    "Worldwide"
+    {
+      "identifier": {
+        "identifier": "Worldwide",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
-  "sourceCodeRelease": "\u003ca href \u003d \"https://sourceforge.net/projects/globalepidemics/files/?source\u003dnavbar\" class\u003d\"underline\"\u003ehttps://sourceforge.net/projects/globalepidemics/files/?source\u003dnavbar\u003c/a\u003e",
+  "sourceCodeRelease": "<a href = \"https://sourceforge.net/projects/globalepidemics/files/?source=navbar\" class=\"underline\">https://sourceforge.net/projects/globalepidemics/files/?source=navbar</a>",
   "pathogenCoverage": [
-    "Influenza-like diseases"
+    {
+      "identifier": {
+        "identifier": "influenza-like diseases",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "hostSpeciesIncluded": [
-    "Humans"
+    {
+      "identifier": {
+        "identifier": "9606",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "controlMeasures": [
-    "Vaccination",
-    "antiviral treatment of the symptomatic",
-    "antiviral prophylaxis of the symptomatic",
-    "place closure",
-    "travel restrictions",
-    "case quarantines"
+    {
+      "identifier": {
+        "identifier": "Vaccination",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "antiviral treatment of the symptomatic",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "antiviral prophylaxis of the symptomatic",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "place closure",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "travel restrictions",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "case quarantines",
+        "identifierSource": ""
+      }
+    }
   ],
-  "license": "\u003ca class\u003d\"underline\" href \u003d\"https://www.apache.org/licenses/LICENSE-2.0\"\u003eApache V2.0\u003c/a\u003e",
+  "license": "<a class=\"underline\" href =\"https://www.apache.org/licenses/LICENSE-2.0\">Apache V2.0</a>",
   "title": "Global Epidemic Simulator"
 }

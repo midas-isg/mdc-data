@@ -5,24 +5,64 @@
     "0.5"
   ],
   "locationCoverage": [
-    "Cairns, Australia"
+    {
+      "identifier": {
+        "identifier": "Cairns, Australia",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "hostSpeciesIncluded": [
-    "Humans",
-    "Mosquitoes"
+    {
+      "identifier": {
+        "identifier": "9606",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "7157",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "pathogenCoverage": [
-    "Dengue"
+    {
+      "identifier": {
+        "identifier": "12637",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "controlMeasures": [
-    "Wolbachia",
-    "vector control",
-    "vaccination",
-    "larviciding"
+    {
+      "identifier": {
+        "identifier": "Wolbachia",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "vector control",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "vaccination",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "larviciding",
+        "identifierSource": ""
+      }
+    }
   ],
-  "humanReadableSynopsis": "\u003cp\u003eThe ComputationaL ARthropod Agents (CLARA) is a Netlogo agent-based model for vector-borne diseases. CLARA is still under development.\u003c/p\u003e \u003cp\u003e This DTM can be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click \u003ca href\u003d\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class\u003d\"underline\"\u003ehere\u003c/a\u003e.\u003c/p\u003e",
+  "humanReadableSynopsis": "<p>The ComputationaL ARthropod Agents (CLARA) is a Netlogo agent-based model for vector-borne diseases. CLARA is still under development.</p> <p> This DTM can be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click <a href=\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class=\"underline\">here</a>.</p>",
   "identifier": {
-    "identifier": "\u003ca href\u003d\"http://doi.org/10.5281/zenodo.322422\", class\u003d\"underline\"\u003e10.5281/zenodo.322422\u003c/a\u003e"
+    "identifier": "<a href=\"http://doi.org/10.5281/zenodo.322422\", class=\"underline\">10.5281/zenodo.322422</a>"
   },
   "developers": [
     "Shawn T. Brown"

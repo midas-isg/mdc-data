@@ -4,13 +4,38 @@
   "type": "prospective nowcast",
   "forecastFrequency": "weekly",
   "diseases": [
-    "Influenza"
+    {
+      "identifier": {
+        "identifier": "11309",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "region": [
-    "US National",
-    "HHS regions",
-    "Census regions",
-    "Census states"
+    {
+      "identifier": {
+        "identifier": "1216",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "HHS regions",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "Census regions",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "Census states",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "nowcasts": [
     "weekly percent ILI"

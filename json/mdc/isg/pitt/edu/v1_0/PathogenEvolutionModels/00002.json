@@ -21,16 +21,26 @@
     "Sarah Murata"
   ],
   "publicationsAboutRelease": [
-    "Neher, R. A., \u0026 Bedford, T. (2015). nextflu: real-time tracking of seasonal influenza virus evolution in humans. Bioinformatics, 31(21), 3546–3548. \u003ca href\u003d\"http://doi.org/10.1093/bioinformatics/btv381\" class\u003d\"underline\"\u003ehttp://doi.org/10.1093/bioinformatics/btv381\u003c/a\u003e"
+    "Neher, R. A., & Bedford, T. (2015). nextflu: real-time tracking of seasonal influenza virus evolution in humans. Bioinformatics, 31(21), 3546\u20133548. <a href=\"http://doi.org/10.1093/bioinformatics/btv381\" class=\"underline\">http://doi.org/10.1093/bioinformatics/btv381</a>"
   ],
-  "license": "\u003ca href\u003d\"https://www.gnu.org/licenses/agpl-3.0.en.html\" class\u003d\"underline\"\u003eGNU Affero General Public License\u003c/a\u003e",
+  "license": "<a href=\"https://www.gnu.org/licenses/agpl-3.0.en.html\" class=\"underline\">GNU Affero General Public License</a>",
   "grants": [
     "ERC Stg-260686",
     "NIH U54 GM111274"
   ],
   "pathogens": [
-    "H1N1 Influenza",
-    "H3N2 Influenza"
+    {
+      "identifier": {
+        "identifier": "114727",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "119210",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "title": "nextflu"
 }

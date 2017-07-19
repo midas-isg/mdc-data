@@ -12,7 +12,7 @@
     "1.2.3"
   ],
   "identifier": {
-    "identifier": "\u003ca href\u003d\"https://doi.org/10.5281/zenodo.800704\", class\u003d\"underline\"\u003e10.5281/zenodo.800704\u003c/a\u003e"
+    "identifier": "<a href=\"https://doi.org/10.5281/zenodo.800704\", class=\"underline\">10.5281/zenodo.800704</a>"
   },
   "dataOutputFormats": [
     "IETF:rfc7946"
@@ -21,7 +21,7 @@
     "Proprietary"
   ],
   "source": "https://github.com/midas-isg/ls",
-  "humanReadableSynopsis": "\u003cp\u003eThe Apollo Location Service is a web service that accesses a database of information about locations in which the identifiers are not only location specific but time specific.\u003c/p\u003e \u003cp\u003eMIDAS developers will find this web service useful for retrieving GeoJSON data for any locations stored in the Apollo LS database.\u003c/p\u003e",
+  "humanReadableSynopsis": "<p>The Apollo Location Service is a web service that accesses a database of information about locations in which the identifiers are not only location specific but time specific.</p> <p>MIDAS developers will find this web service useful for retrieving GeoJSON data for any locations stored in the Apollo LS database.</p>",
   "webApplication": [
     "http://betaweb.rods.pitt.edu/ls"
   ]

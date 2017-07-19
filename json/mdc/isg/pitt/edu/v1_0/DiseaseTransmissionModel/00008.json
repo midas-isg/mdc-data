@@ -3,26 +3,51 @@
   "availableOnOlympus": true,
   "availableOnUIDS": true,
   "locationCoverage": [
-    "Worldwide"
+    {
+      "identifier": {
+        "identifier": "Worldwide",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "hostSpeciesIncluded": [
-    "Humans"
+    {
+      "identifier": {
+        "identifier": "9606",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "pathogenCoverage": [
-    "Influenza"
+    {
+      "identifier": {
+        "identifier": "11309",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "controlMeasures": [
-    "Antivirals",
-    "vaccination"
+    {
+      "identifier": {
+        "identifier": "Antivirals",
+        "identifierSource": ""
+      }
+    },
+    {
+      "identifier": {
+        "identifier": "vaccination",
+        "identifierSource": ""
+      }
+    }
   ],
-  "humanReadableSynopsis": "\u003cp\u003eA SEIR compartmental model developed by the University of Pittsburgh. The model supports antiviral and vaccination control strategies.\u003c/p\u003e \u003cp\u003eThis disease transmission model (DTM) can be run using the Universal Interface to Disease Simulators available \u003ca href\u003d\"http://research.rods.pitt.edu/apollo-web-client/\" class\u003d\"underline\"\u003ehere\u003c/a\u003e.\u003c/p\u003e \u003cp\u003e This DTM can also be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click \u003ca href\u003d\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class\u003d\"underline\"\u003ehere\u003c/a\u003e.\u003c/p\u003e",
+  "humanReadableSynopsis": "<p>A SEIR compartmental model developed by the University of Pittsburgh. The model supports antiviral and vaccination control strategies.</p> <p>This disease transmission model (DTM) can be run using the Universal Interface to Disease Simulators available <a href=\"http://research.rods.pitt.edu/apollo-web-client/\" class=\"underline\">here</a>.</p> <p> This DTM can also be run from the command line of the Olympus Cluster. Note that an account is required. For information on how to register for an account on Olympus please click <a href=\"https://git.isg.pitt.edu/hpc/olympus/wikis/home\" class=\"underline\">here</a>.</p>",
   "version": [
     "3.0"
   ],
   "source": "https://github.com/midas-isg/PITT-SEIR-model",
-  "license": "\u003ca class\u003d\"underline\" href \u003d\"https://www.apache.org/licenses/LICENSE-2.0\"\u003eApache V2.0\u003c/a\u003e",
+  "license": "<a class=\"underline\" href =\"https://www.apache.org/licenses/LICENSE-2.0\">Apache V2.0</a>",
   "identifier": {
-    "identifier": "\u003ca href\u003d\"https://zenodo.org/record/319937#.WKxb1xLytPV\", class\u003d\"underline\"\u003e10.5281/zenodo.319937\u003c/a\u003e"
+    "identifier": "<a href=\"https://zenodo.org/record/319937#.WKxb1xLytPV\", class=\"underline\">10.5281/zenodo.319937</a>"
   },
   "title": "Pitt-SEIR model",
   "dataInputFormats": [

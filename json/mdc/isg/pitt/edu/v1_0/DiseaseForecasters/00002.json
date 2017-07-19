@@ -1,13 +1,23 @@
 {
   "subtype": "Disease forecasters",
-  "humanReadableSynopsis": "Delphi\u0027s forecasts are derived from expert\u0027s forecasts. To sign up to participate as an expert go to: \u003ca href\u003d\"http://delphi.midas.cs.cmu.edu/epicast/\", class\u003d\"underline\"\u003ehttp://delphi.midas.cs.cmu.edu/epicast/\u003c/a\u003e",
+  "humanReadableSynopsis": "Delphi's forecasts are derived from expert's forecasts. To sign up to participate as an expert go to: <a href=\"http://delphi.midas.cs.cmu.edu/epicast/\", class=\"underline\">http://delphi.midas.cs.cmu.edu/epicast/</a>",
   "type": "prospective 2016-2017",
   "forecastFrequency": "weekly",
   "diseases": [
-    "Influenza"
+    {
+      "identifier": {
+        "identifier": "11309",
+        "identifierSource": "https://fairsharing.org/bsg-s000154"
+      }
+    }
   ],
   "region": [
-    "10 US regions and national"
+    {
+      "identifier": {
+        "identifier": "10 US regions and national",
+        "identifierSource": "https://fairsharing.org/bsg-s000708"
+      }
+    }
   ],
   "forecasts": [
     "Start week",
