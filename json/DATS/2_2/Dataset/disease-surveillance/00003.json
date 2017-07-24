@@ -1,6 +1,6 @@
 {
   "title": "Colombia Routine Surveillance",
-  "description": "Collection of routine disease surveillance data made publically available by Colombia National Institute of Health",
+  "description": "Collection of routine disease surveillance data made publicly available by Colombia National Institute of Health",
   "identifier": {
     "identifier": "Colombia Routine Surveillance",
     "identifierSource": "MIDAS Informatics Services Group"
@@ -39,8 +39,8 @@
     {
       "name": "Colombia",
       "identifier": {
-        "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id\u003d5076",
-        "identifierSource": "apollo location service"
+        "identifier": "5076",
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       },
       "alternativeIdentifiers": [
         {
