@@ -186,15 +186,15 @@
     {
       "name": "Dengue",
       "identifier": {
-        "identifier": "http://bioportal.bioontology.org/ontologies/SNOMEDCT?p\u003dclasses\u0026conceptid\u003d38362002",
+        "identifier": "38362002",
         "identifierSource": "https://biosharing.org/bsg-s000098"
       }
     },
     {
       "name": "Laos",
       "identifier": {
-        "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id\u003d5133",
-        "identifierSource": "apollo location service"
+        "identifier": "5133",
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       },
       "alternateIdentifiers": [
         {
@@ -214,7 +214,7 @@
   ],
   "hasPart": [
     {
-      "title": "Counts of people diagnosed with Dengue in Laos as reported by the Lao People’s Democratic Republic National Center for Laboratory and Epidemiology between 1998-01-01 and 2010-12-31",
+      "title": "Counts of people diagnosed with Dengue in Laos as reported by the Lao People\u2019s Democratic Republic National Center for Laboratory and Epidemiology between 1998-01-01 and 2010-12-31",
       "creators": [
         {
           "firstName": "Wilbert",
@@ -939,8 +939,8 @@
       "name": "Laos",
       "description": "Laos, but may be incomplete for some areas",
       "identifier": {
-        "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id\u003d5133",
-        "identifierSource": "apollo location service"
+        "identifier": "5133",
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       },
       "alternateIdentifiers": [
         {
@@ -1021,7 +1021,7 @@
         ],
         "version": "2.0"
       },
-      "size": -1.0,
+      "size": -1,
       "unit": {
         "value": "megabyte",
         "valueIRI": "http://purl.obolibrary.org/obo/UO_0000235"

@@ -30,14 +30,14 @@
     {
       "name": "Ebolavirus",
       "identifier": {
-        "identifier": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id\u003d186536",
+        "identifier": "186536",
         "identifierSource": "https://biosharing.org/bsg-s000154"
       }
     },
     {
       "name": "Ebola virus disease",
       "identifier": {
-        "identifier": "http://bioportal.bioontology.org/ontologies/SNOMEDCT?p\u003dclasses\u0026conceptid\u003d37109004",
+        "identifier": "37109004",
         "identifierSource": "https://biosharing.org/bsg-s000098"
       }
     },
@@ -54,20 +54,20 @@
       "name": "Mbomo",
       "identifier": {
         "identifier": "224",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d224"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       },
       "alternateIdentifiers": [
         {
-          "identifier": "Kéllé",
+          "identifier": "K\u00e9ll\u00e9",
           "identifierSource": "ISG"
         }
       ]
     },
     {
-      "name": "Kéllé",
+      "name": "K\u00e9ll\u00e9",
       "identifier": {
         "identifier": "223",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d223"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     }
   ],
@@ -115,7 +115,7 @@
       ],
       "access": {
         "landingPage": "http://epimodels.org/apolloLibraryViewer-4.0.1/main/epidemic/9",
-        "accessURL": "http://epimodels.org/apolloLibraryViewer-4.0.1/epidemic/9.xml?view\u003dtrue",
+        "accessURL": "http://epimodels.org/apolloLibraryViewer-4.0.1/epidemic/9.xml?view=true",
         "authorizations": [
           {
             "value": "public",
@@ -183,7 +183,7 @@
           }
         ]
       },
-      "size": 16.0,
+      "size": 16,
       "unit": {
         "value": "kilobyte",
         "valueIRI": "http://purl.obolibrary.org/obo/UO_0000235"

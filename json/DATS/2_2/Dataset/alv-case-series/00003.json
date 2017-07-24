@@ -30,21 +30,21 @@
     {
       "name": "Rabies lyssavirus",
       "identifier": {
-        "identifier": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id\u003d11292",
+        "identifier": "11292",
         "identifierSource": "https://biosharing.org/bsg-s000154"
       }
     },
     {
       "name": "Rabies virus silver-haired bat-associated SHBRV",
       "identifier": {
-        "identifier": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id\u003d445793",
+        "identifier": "445793",
         "identifierSource": "https://biosharing.org/bsg-s000154"
       }
     },
     {
       "name": "Rabies (disorder)",
       "identifier": {
-        "identifier": "http://bioportal.bioontology.org/ontologies/SNOMEDCT?p\u003dclasses\u0026conceptid\u003d14168008",
+        "identifier": "14168008",
         "identifierSource": "https://biosharing.org/bsg-s000098"
       }
     }
@@ -53,8 +53,8 @@
     {
       "name": "United States",
       "identifier": {
-        "identifier": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d1216",
-        "identifierSource": "apollo location service"
+        "identifier": "1216",
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       },
       "alternateIdentifiers": [
         {
@@ -87,7 +87,7 @@
       "dates": [],
       "access": {
         "landingPage": "http://epimodels.org/apolloLibraryViewer-4.0.1/main/caseSeries/33",
-        "accessURL": "http://epimodels.org/apolloLibraryViewer-4.0.1/caseSeries/33.xml?view\u003dtrue",
+        "accessURL": "http://epimodels.org/apolloLibraryViewer-4.0.1/caseSeries/33.xml?view=true",
         "authorizations": [
           {
             "value": "public",
@@ -136,7 +136,7 @@
           },
           {
             "value": "case series",
-            "valueIRI": "http://purl.obolibrary.org/obo/apollo_sv.owl"
+            "valueIRI": "http://purl.obolibrary.org/obo/APOLLO_SV_00000558"
           }
         ],
         "types": [
@@ -155,7 +155,7 @@
           }
         ]
       },
-      "size": 30.0,
+      "size": 30,
       "unit": {
         "value": "kilobyte",
         "valueIRI": "http://purl.obolibrary.org/obo/UO_0000235"

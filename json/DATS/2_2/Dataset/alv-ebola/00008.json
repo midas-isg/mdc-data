@@ -30,14 +30,14 @@
     {
       "name": "Zaire ebolavirus",
       "identifier": {
-        "identifier": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id\u003d186538",
+        "identifier": "186538",
         "identifierSource": "https://biosharing.org/bsg-s000154"
       }
     },
     {
       "name": "Ebola virus disease",
       "identifier": {
-        "identifier": "http://bioportal.bioontology.org/ontologies/SNOMEDCT?p\u003dclasses\u0026conceptid\u003d37109004",
+        "identifier": "37109004",
         "identifierSource": "https://biosharing.org/bsg-s000098"
       }
     },
@@ -55,7 +55,7 @@
       "description": "10 villages situated on the north-south road linking Luebo and Mweka",
       "identifier": {
         "identifier": "85168",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85168"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       },
       "alternateIdentifiers": []
     }
@@ -104,7 +104,7 @@
       ],
       "access": {
         "landingPage": "http://epimodels.org/apolloLibraryViewer-4.0.1/main/epidemic/13",
-        "accessURL": "http://epimodels.org/apolloLibraryViewer-4.0.1/epidemic/13.xml?view\u003dtrue",
+        "accessURL": "http://epimodels.org/apolloLibraryViewer-4.0.1/epidemic/13.xml?view=true",
         "authorizations": [
           {
             "value": "public",
@@ -172,7 +172,7 @@
           }
         ]
       },
-      "size": 5.0,
+      "size": 5,
       "unit": {
         "value": "kilobyte",
         "valueIRI": "http://purl.obolibrary.org/obo/UO_0000235"

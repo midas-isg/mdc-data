@@ -186,15 +186,15 @@
     {
       "name": "Dengue",
       "identifier": {
-        "identifier": "http://bioportal.bioontology.org/ontologies/SNOMEDCT?p\u003dclasses\u0026conceptid\u003d38362002",
+        "identifier": "38362002",
         "identifierSource": "https://biosharing.org/bsg-s000098"
       }
     },
     {
       "name": "Barbados",
       "identifier": {
-        "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id\u003d5135",
-        "identifierSource": "apollo location service"
+        "identifier": "5135",
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       },
       "alternateIdentifiers": [
         {
@@ -579,8 +579,8 @@
       "name": "Barbados",
       "description": "Barbados, but may be incomplete for some areas",
       "identifier": {
-        "identifier": "http://betaweb.rods.pitt.edu/ls/browser?id\u003d5135",
-        "identifierSource": "apollo location service"
+        "identifier": "5135",
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       },
       "alternateIdentifiers": [
         {
@@ -661,7 +661,7 @@
         ],
         "version": "2.0"
       },
-      "size": -1.0,
+      "size": -1,
       "unit": {
         "value": "megabyte",
         "valueIRI": "http://purl.obolibrary.org/obo/UO_0000235"

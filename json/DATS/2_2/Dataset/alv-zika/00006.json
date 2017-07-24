@@ -30,21 +30,21 @@
     {
       "name": "Zika virus",
       "identifier": {
-        "identifier": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id\u003d64320",
+        "identifier": "64320",
         "identifierSource": "https://biosharing.org/bsg-s000154"
       }
     },
     {
       "name": "Zika virus disease",
       "identifier": {
-        "identifier": "http://bioportal.bioontology.org/ontologies/SNOMEDCT?p\u003dclasses\u0026conceptid\u003d3928002",
+        "identifier": "3928002",
         "identifierSource": "https://biosharing.org/bsg-s000098"
       }
     },
     {
       "name": "Fetal microcephaly",
       "identifier": {
-        "identifier": "http://bioportal.bioontology.org/ontologies/SNOMEDCT?p\u003dclasses\u0026conceptid\u003d431265009",
+        "identifier": "431265009",
         "identifierSource": "https://biosharing.org/bsg-s000098"
       }
     }
@@ -54,7 +54,7 @@
       "name": "Virgin Islands",
       "identifier": {
         "identifier": "1604",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d1604"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       },
       "alternateIdentifiers": [
         {
@@ -83,7 +83,7 @@
       "dates": [],
       "access": {
         "landingPage": "http://epimodels.org/apolloLibraryViewer-4.0.1/main/epidemic/97",
-        "accessURL": "http://epimodels.org/apolloLibraryViewer-4.0.1/epidemic/97.xml?view\u003dtrue",
+        "accessURL": "http://epimodels.org/apolloLibraryViewer-4.0.1/epidemic/97.xml?view=true",
         "authorizations": [
           {
             "value": "public",
@@ -132,7 +132,7 @@
           },
           {
             "value": "case series",
-            "valueIRI": "http://purl.obolibrary.org/obo/apollo_sv.owl"
+            "valueIRI": "http://purl.obolibrary.org/obo/APOLLO_SV_00000558"
           }
         ],
         "types": [
@@ -151,7 +151,7 @@
           }
         ]
       },
-      "size": 142.0,
+      "size": 142,
       "unit": {
         "value": "kilobyte",
         "valueIRI": "http://purl.obolibrary.org/obo/UO_0000235"

@@ -30,14 +30,14 @@
     {
       "name": "Zaire ebolavirus",
       "identifier": {
-        "identifier": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id\u003d186538",
+        "identifier": "186538",
         "identifierSource": "https://biosharing.org/bsg-s000154"
       }
     },
     {
       "name": "Ebola virus disease",
       "identifier": {
-        "identifier": "http://bioportal.bioontology.org/ontologies/SNOMEDCT?p\u003dclasses\u0026conceptid\u003d37109004",
+        "identifier": "37109004",
         "identifierSource": "https://biosharing.org/bsg-s000098"
       }
     },
@@ -54,7 +54,7 @@
       "name": "Nimba",
       "identifier": {
         "identifier": "85181",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85181"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       },
       "alternateIdentifiers": []
     },
@@ -62,98 +62,98 @@
       "name": "Rivercess",
       "identifier": {
         "identifier": "85183",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85183"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "River Gee",
       "identifier": {
         "identifier": "85182",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85182"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Sinoe",
       "identifier": {
         "identifier": "85185",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85185"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Bomi",
       "identifier": {
         "identifier": "85170",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85170"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Bong",
       "identifier": {
         "identifier": "85171",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85171"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Gbarpolu",
       "identifier": {
         "identifier": "85173",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85173"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Grand Cape Mount",
       "identifier": {
         "identifier": "85175",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85175"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Grand Bassa",
       "identifier": {
         "identifier": "85174",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85174"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Grand Kru",
       "identifier": {
         "identifier": "85176",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85176"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Lofa",
       "identifier": {
         "identifier": "85177",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85177"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Margibi",
       "identifier": {
         "identifier": "85178",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85178"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Maryland",
       "identifier": {
         "identifier": "85179",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85179"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Montserrado",
       "identifier": {
         "identifier": "85180",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85180"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     },
     {
       "name": "Liberia",
       "identifier": {
         "identifier": "85172",
-        "identifierSource": "http://betaweb.rods.pitt.edu/ls/read-only?id\u003d85172"
+        "identifierSource": "http://purl.obolibrary.org/obo/APOLLO_SV_00000259"
       }
     }
   ],
@@ -201,7 +201,7 @@
       ],
       "access": {
         "landingPage": "http://epimodels.org/apolloLibraryViewer-4.0.1/main/epidemic/22",
-        "accessURL": "http://epimodels.org/apolloLibraryViewer-4.0.1/epidemic/22.xml?view\u003dtrue",
+        "accessURL": "http://epimodels.org/apolloLibraryViewer-4.0.1/epidemic/22.xml?view=true",
         "authorizations": [
           {
             "value": "public",
@@ -269,7 +269,7 @@
           }
         ]
       },
-      "size": 805.0,
+      "size": 805,
       "unit": {
         "value": "kilobyte",
         "valueIRI": "http://purl.obolibrary.org/obo/UO_0000235"
