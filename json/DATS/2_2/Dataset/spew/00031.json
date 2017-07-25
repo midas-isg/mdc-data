@@ -79,7 +79,7 @@
     {
       "name": "Workplace facility",
       "identifier": {
-        "identifier": "http://purl.obolibrary.org/obo/OMRSE_000000768",
+        "identifier": "http://purl.obolibrary.org/obo/OMRSE_00000078",
         "identifierSource": "https://biosharing.org/bsg-s000097"
       }
     },
