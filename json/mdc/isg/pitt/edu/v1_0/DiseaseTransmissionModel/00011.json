@@ -7,8 +7,9 @@
   "locationCoverage": [
     {
       "identifier": {
-        "identifier": "Cairns, Australia",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "cairns, australia"
       }
     }
   ],
@@ -16,13 +17,15 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "homo sapiens"
       }
     },
     {
       "identifier": {
         "identifier": "7157",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "mosquitoes"
       }
     }
   ],
@@ -30,33 +33,38 @@
     {
       "identifier": {
         "identifier": "12637",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "dengue"
       }
     }
   ],
   "controlMeasures": [
     {
       "identifier": {
-        "identifier": "Wolbachia",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "wolbachia"
       }
     },
     {
       "identifier": {
-        "identifier": "vector control",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "vector control"
       }
     },
     {
       "identifier": {
-        "identifier": "vaccination",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "vaccination"
       }
     },
     {
       "identifier": {
-        "identifier": "larviciding",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "larviciding"
       }
     }
   ],

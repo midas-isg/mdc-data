@@ -5,8 +5,9 @@
   "pathogenCoverage": [
     {
       "identifier": {
-        "identifier": "Communicable human-to-human",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "communicable human-to-human"
       }
     }
   ],
@@ -23,7 +24,8 @@
     {
       "identifier": {
         "identifier": "1216",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "us national"
       }
     }
   ],
@@ -31,7 +33,8 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "homo sapiens"
       }
     }
   ],
@@ -45,26 +48,30 @@
   "controlMeasures": [
     {
       "identifier": {
-        "identifier": "Vaccination",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "vaccination"
       }
     },
     {
       "identifier": {
-        "identifier": "quarantine",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "quarantine"
       }
     },
     {
       "identifier": {
-        "identifier": "reactive school closures",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "reactive school closures"
       }
     },
     {
       "identifier": {
-        "identifier": "global school closures",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "global school closures"
       }
     }
   ],

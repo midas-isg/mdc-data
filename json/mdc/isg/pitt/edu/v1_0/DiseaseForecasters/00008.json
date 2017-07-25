@@ -18,27 +18,31 @@
     {
       "identifier": {
         "identifier": "64320",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "zika"
       }
     }
   ],
   "region": [
     {
       "identifier": {
-        "identifier": "South America",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "south america"
       }
     },
     {
       "identifier": {
-        "identifier": "Latin America",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "latin america"
       }
     },
     {
       "identifier": {
-        "identifier": "Caribbean",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "caribbean"
       }
     }
   ],

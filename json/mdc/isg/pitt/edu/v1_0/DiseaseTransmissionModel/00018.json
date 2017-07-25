@@ -7,8 +7,9 @@
   "locationCoverage": [
     {
       "identifier": {
-        "identifier": "Worldwide",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "worldwide"
       }
     }
   ],
@@ -16,8 +17,9 @@
   "pathogenCoverage": [
     {
       "identifier": {
-        "identifier": "Influenza-like diseases",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "influenza-like diseases"
       }
     }
   ],
@@ -25,45 +27,52 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "homo sapiens"
       }
     }
   ],
   "controlMeasures": [
     {
       "identifier": {
-        "identifier": "Vaccination",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "vaccination"
       }
     },
     {
       "identifier": {
-        "identifier": "antiviral treatment of the symptomatic",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "antiviral treatment of the symptomatic"
       }
     },
     {
       "identifier": {
-        "identifier": "antiviral prophylaxis of the symptomatic",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "antiviral prophylaxis of the symptomatic"
       }
     },
     {
       "identifier": {
-        "identifier": "place closure",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "place closure"
       }
     },
     {
       "identifier": {
-        "identifier": "travel restrictions",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "travel restrictions"
       }
     },
     {
       "identifier": {
-        "identifier": "case quarantines",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "case quarantines"
       }
     }
   ],

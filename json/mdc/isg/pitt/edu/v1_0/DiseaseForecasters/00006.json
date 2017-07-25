@@ -7,7 +7,8 @@
     {
       "identifier": {
         "identifier": "11309",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "influenza"
       }
     }
   ],
@@ -15,25 +16,29 @@
     {
       "identifier": {
         "identifier": "1216",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "us national"
       }
     },
     {
       "identifier": {
-        "identifier": "HHS regions",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "hhs regions"
       }
     },
     {
       "identifier": {
-        "identifier": "Census regions",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "census regions"
       }
     },
     {
       "identifier": {
-        "identifier": "Census states",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "census states"
       }
     }
   ],

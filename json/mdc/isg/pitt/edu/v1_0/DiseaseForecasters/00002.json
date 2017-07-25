@@ -7,15 +7,17 @@
     {
       "identifier": {
         "identifier": "11309",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "influenza"
       }
     }
   ],
   "region": [
     {
       "identifier": {
-        "identifier": "10 US regions and national",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "10 us regions and national"
       }
     }
   ],

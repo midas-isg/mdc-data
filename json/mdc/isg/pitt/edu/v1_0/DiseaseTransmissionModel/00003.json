@@ -11,7 +11,8 @@
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": ""
       }
     }
   ],
@@ -19,7 +20,8 @@
     {
       "identifier": {
         "identifier": "418103",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "malaria"
       }
     }
   ],
@@ -27,57 +29,66 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "homo sapiens"
       }
     },
     {
       "identifier": {
         "identifier": "7157",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "mosquitoes"
       }
     }
   ],
   "controlMeasures": [
     {
       "identifier": {
-        "identifier": "Mass drug deployment",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "mass drug deployment"
       }
     },
     {
       "identifier": {
-        "identifier": "vaccination",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "vaccination"
       }
     },
     {
       "identifier": {
-        "identifier": "vector control interventions",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "vector control interventions"
       }
     },
     {
       "identifier": {
-        "identifier": "indoor spraying",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "indoor spraying"
       }
     },
     {
       "identifier": {
-        "identifier": "larviciding",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "larviciding"
       }
     },
     {
       "identifier": {
-        "identifier": "zoo-prophylaxis",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "zoo-prophylaxis"
       }
     },
     {
       "identifier": {
-        "identifier": "odour-baited traps",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "odour-baited traps"
       }
     }
   ],

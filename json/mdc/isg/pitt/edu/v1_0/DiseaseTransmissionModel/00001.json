@@ -6,7 +6,8 @@
     {
       "identifier": {
         "identifier": "11309",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "influenza"
       }
     }
   ],
@@ -23,7 +24,8 @@
     {
       "identifier": {
         "identifier": "1216",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "us national"
       }
     }
   ],
@@ -33,51 +35,59 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "homo sapiens"
       }
     }
   ],
   "controlMeasures": [
     {
       "identifier": {
-        "identifier": "Antivirals",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "antivirals"
       }
     },
     {
       "identifier": {
-        "identifier": "isolation",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "isolation"
       }
     },
     {
       "identifier": {
-        "identifier": "liberal sick leave",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "liberal sick leave"
       }
     },
     {
       "identifier": {
-        "identifier": "quarantine",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "quarantine"
       }
     },
     {
       "identifier": {
-        "identifier": "school closure",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "school closure"
       }
     },
     {
       "identifier": {
-        "identifier": "travel restriction",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "travel restriction"
       }
     },
     {
       "identifier": {
-        "identifier": "vaccination",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "vaccination"
       }
     }
   ],

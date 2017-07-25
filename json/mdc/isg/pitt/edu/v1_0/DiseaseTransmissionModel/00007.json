@@ -5,8 +5,9 @@
   "locationCoverage": [
     {
       "identifier": {
-        "identifier": "Worldwide",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "worldwide"
       }
     }
   ],
@@ -14,7 +15,8 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "homo sapiens"
       }
     }
   ],
@@ -22,27 +24,31 @@
     {
       "identifier": {
         "identifier": "1392",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "anthrax"
       }
     }
   ],
   "controlMeasures": [
     {
       "identifier": {
-        "identifier": "Antibiotic prophylaxis",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "antibiotic prophylaxis"
       }
     },
     {
       "identifier": {
-        "identifier": "hospitalization with administration of intravenous antibiotics",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "hospitalization with administration of intravenous antibiotics"
       }
     },
     {
       "identifier": {
-        "identifier": "treatment in the I.C.U.",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "treatment in the i.c.u."
       }
     }
   ],

@@ -7,15 +7,17 @@
     {
       "identifier": {
         "identifier": "64320",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "zika"
       }
     }
   ],
   "locationCoverage": [
     {
       "identifier": {
-        "identifier": "The Americas",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "the americas"
       }
     }
   ],
@@ -23,7 +25,8 @@
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": ""
+        "identifierSource": "",
+        "identifierDescription": ""
       }
     }
   ],
@@ -31,13 +34,15 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "homo sapiens"
       }
     },
     {
       "identifier": {
         "identifier": "7157",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "mosquitoes"
       }
     }
   ],

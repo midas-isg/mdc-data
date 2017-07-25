@@ -5,16 +5,18 @@
   "pathogenCoverage": [
     {
       "identifier": {
-        "identifier": "Communicable human-to-human",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "communicable human-to-human"
       }
     }
   ],
   "locationCoverage": [
     {
       "identifier": {
-        "identifier": "Worldwide",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "worldwide"
       }
     }
   ],
@@ -22,15 +24,17 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "homo sapiens"
       }
     }
   ],
   "controlMeasures": [
     {
       "identifier": {
-        "identifier": "Travel restriction",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "travel restriction"
       }
     }
   ],

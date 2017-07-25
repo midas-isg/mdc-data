@@ -15,37 +15,43 @@
     {
       "identifier": {
         "identifier": "64320",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "zika"
       }
     },
     {
       "identifier": {
         "identifier": "1570291",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "ebola virus"
       }
     },
     {
       "identifier": {
         "identifier": "333278",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "avian influenza a"
       }
     },
     {
       "identifier": {
         "identifier": "114727",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "h1n1 influenza"
       }
     },
     {
       "identifier": {
         "identifier": "119210",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "h3n2 influenza"
       }
     },
     {
       "identifier": {
         "identifier": "12637",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "dengue"
       }
     }
   ],

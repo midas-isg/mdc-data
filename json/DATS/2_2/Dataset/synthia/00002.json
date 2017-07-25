@@ -43,14 +43,14 @@
     {
       "name": "Homo sapiens",
       "identifier": {
-        "identifier": "http://purl.obolibrary.org/obo/NBCITaxon_9606",
+        "identifier": "9606",
         "identifierSource": "https://biosharing.org/bsg-s000154"
       }
     },
     {
       "name": "Household",
       "identifier": {
-        "identifier": "http://purl.obolibrary.org/obo/OMRSE_0000007",
+        "identifier": "http://purl.obolibrary.org/obo/OMRSE_00000076",
         "identifierSource": "https://biosharing.org/bsg-s000097"
       }
     },
@@ -71,7 +71,7 @@
     {
       "name": "Workplace facility",
       "identifier": {
-        "identifier": "http://purl.obolibrary.org/obo/OMRSE_00000078",
+        "identifier": "http://purl.obolibrary.org/obo/OMRSE_000000768",
         "identifierSource": "https://biosharing.org/bsg-s000097"
       }
     },

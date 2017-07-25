@@ -5,8 +5,9 @@
   "locationCoverage": [
     {
       "identifier": {
-        "identifier": "Worldwide",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifier": "",
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "worldwide"
       }
     }
   ],
@@ -14,7 +15,8 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "homo sapiens"
       }
     }
   ],
@@ -22,21 +24,24 @@
     {
       "identifier": {
         "identifier": "11309",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "influenza"
       }
     }
   ],
   "controlMeasures": [
     {
       "identifier": {
-        "identifier": "Antivirals",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "antivirals"
       }
     },
     {
       "identifier": {
-        "identifier": "vaccination",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "vaccination"
       }
     }
   ],

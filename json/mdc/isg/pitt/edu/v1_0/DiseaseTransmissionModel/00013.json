@@ -10,7 +10,8 @@
     {
       "identifier": {
         "identifier": "11",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": "sierra leone"
       }
     }
   ],
@@ -18,7 +19,8 @@
     {
       "identifier": {
         "identifier": "1570291",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "ebola virus"
       }
     }
   ],
@@ -31,8 +33,9 @@
   "controlMeasures": [
     {
       "identifier": {
-        "identifier": "Vaccination",
-        "identifierSource": ""
+        "identifier": "",
+        "identifierSource": "",
+        "identifierDescription": "vaccination"
       }
     }
   ],
@@ -40,7 +43,8 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": "homo sapiens"
       }
     }
   ],

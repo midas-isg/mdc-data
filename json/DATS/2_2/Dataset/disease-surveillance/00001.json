@@ -37,14 +37,14 @@
     {
       "name": "AIDS",
       "identifier": {
-        "identifier": "http://bioportal.bioontology.org/ontologies/SNOMEDCT?p\u003dclasses\u0026conceptid\u003d186705005",
+        "identifier": "186705005",
         "identifierSource": "https://biosharing.org/bsg-s000098"
       }
     },
     {
       "name": "Leprosy",
       "identifier": {
-        "identifier": "http://bioportal.bioontology.org/ontologies/SNOMEDCT?p\u003dclasses\u0026conceptid\u003d81004002",
+        "identifier": "81004002",
         "identifierSource": "https://biosharing.org/bsg-s000098"
       }
     },

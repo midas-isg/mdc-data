@@ -5,7 +5,8 @@
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": "https://fairsharing.org/bsg-s000708"
+        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierDescription": ""
       }
     }
   ],
@@ -13,7 +14,8 @@
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": ""
       }
     }
   ],
@@ -21,7 +23,8 @@
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": "https://fairsharing.org/bsg-s000154"
+        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierDescription": ""
       }
     }
   ],
@@ -29,7 +32,8 @@
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": ""
+        "identifierSource": "",
+        "identifierDescription": ""
       }
     }
   ],
