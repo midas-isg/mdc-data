@@ -12,21 +12,21 @@
     {
       "identifier": {
         "identifier": "333278",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "avian influenza a"
       }
     },
     {
       "identifier": {
         "identifier": "12066",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "foot-and-mouth disease"
       }
     },
     {
       "identifier": {
         "identifier": "10345",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "pseudorabies"
       }
     }
@@ -35,7 +35,7 @@
     {
       "identifier": {
         "identifier": "5196",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "denmark"
       }
     }
@@ -66,7 +66,7 @@
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": ""
       }
     }

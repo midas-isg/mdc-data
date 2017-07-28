@@ -11,7 +11,7 @@
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": ""
       }
     }
@@ -20,7 +20,7 @@
     {
       "identifier": {
         "identifier": "418103",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "malaria"
       }
     }
@@ -29,14 +29,14 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "homo sapiens"
       }
     },
     {
       "identifier": {
         "identifier": "7157",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "mosquitoes"
       }
     }

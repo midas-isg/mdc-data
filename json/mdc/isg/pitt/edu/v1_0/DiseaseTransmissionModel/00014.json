@@ -6,7 +6,7 @@
     {
       "identifier": {
         "identifier": "11309",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "influenza"
       }
     }
@@ -15,14 +15,14 @@
     {
       "identifier": {
         "identifier": "366188",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "los angeles"
       }
     },
     {
       "identifier": {
         "identifier": "510873",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "seattle"
       }
     }
@@ -31,7 +31,7 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "homo sapiens"
       }
     }

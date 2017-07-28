@@ -7,7 +7,7 @@
     {
       "identifier": {
         "identifier": "11309",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "influenza"
       }
     }
@@ -16,28 +16,28 @@
     {
       "identifier": {
         "identifier": "1216",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "us national"
       }
     },
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "hhs regions"
       }
     },
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "census regions"
       }
     },
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "census states"
       }
     }

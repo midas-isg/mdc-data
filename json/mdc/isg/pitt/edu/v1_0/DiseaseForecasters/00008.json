@@ -18,7 +18,7 @@
     {
       "identifier": {
         "identifier": "64320",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "zika"
       }
     }
@@ -27,21 +27,21 @@
     {
       "identifier": {
         "identifier": "542920",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "south america"
       }
     },
     {
       "identifier": {
         "identifier": "544697",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "latin america"
       }
     },
     {
       "identifier": {
         "identifier": "544696",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "caribbean"
       }
     }

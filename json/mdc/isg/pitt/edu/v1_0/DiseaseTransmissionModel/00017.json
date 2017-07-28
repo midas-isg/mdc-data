@@ -6,7 +6,7 @@
     {
       "identifier": {
         "identifier": "",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "communicable human-to-human"
       }
     }
@@ -15,7 +15,7 @@
     {
       "identifier": {
         "identifier": "544694",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "worldwide"
       }
     }
@@ -24,7 +24,7 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "homo sapiens"
       }
     }

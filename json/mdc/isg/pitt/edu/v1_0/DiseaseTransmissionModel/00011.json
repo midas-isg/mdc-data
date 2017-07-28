@@ -8,7 +8,7 @@
     {
       "identifier": {
         "identifier": "542924",
-        "identifierSource": "https://fairsharing.org/bsg-s000708",
+        "identifierSource": "https://biosharing.org/bsg-s000708",
         "identifierDescription": "cairns, australia"
       }
     }
@@ -17,14 +17,14 @@
     {
       "identifier": {
         "identifier": "9606",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "homo sapiens"
       }
     },
     {
       "identifier": {
         "identifier": "7157",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "mosquitoes"
       }
     }
@@ -33,7 +33,7 @@
     {
       "identifier": {
         "identifier": "12637",
-        "identifierSource": "https://fairsharing.org/bsg-s000154",
+        "identifierSource": "https://biosharing.org/bsg-s000154",
         "identifierDescription": "dengue"
       }
     }
